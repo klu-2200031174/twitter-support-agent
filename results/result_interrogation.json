@@ -1,0 +1,111 @@
+{
+  "H1_link_artefact": {
+    "all_cases": {
+      "a": 4.4717,
+      "b": 3.6183,
+      "diff": 0.8533,
+      "ci_lo": 0.7067,
+      "ci_hi": 1.0,
+      "p_a_better": 1.0
+    },
+    "reference_contains_link": {
+      "a": 4.4806,
+      "b": 3.7,
+      "diff": 0.7806,
+      "ci_lo": 0.625,
+      "ci_hi": 0.9333,
+      "p_a_better": 1.0
+    },
+    "reference_has_no_link": {
+      "a": 4.4583,
+      "b": 3.4958,
+      "diff": 0.9625,
+      "ci_lo": 0.7125,
+      "ci_hi": 1.2376,
+      "p_a_better": 1.0
+    },
+    "n_with_link": 72,
+    "n_without_link": 48
+  },
+  "H2_self_preference": {
+    "judge_gap_on_hand_scored_subset": {
+      "a": 4.6267,
+      "b": 3.4133,
+      "diff": 1.2133,
+      "ci_lo": 0.9533,
+      "ci_hi": 1.4533,
+      "p_a_better": 1.0
+    },
+    "human_gap_on_same_subset": {
+      "a": 4.2667,
+      "b": 3.9933,
+      "diff": 0.2733,
+      "ci_lo": 0.0533,
+      "ci_hi": 0.4867,
+      "p_a_better": 0.992
+    },
+    "n": 30
+  },
+  "H3_gap_by_dimension": {
+    "grounded": {
+      "a": 4.3083,
+      "b": 3.7,
+      "diff": 0.6083,
+      "ci_lo": 0.425,
+      "ci_hi": 0.8,
+      "p_a_better": 1.0
+    },
+    "relevant": {
+      "a": 4.65,
+      "b": 3.5,
+      "diff": 1.15,
+      "ci_lo": 0.925,
+      "ci_hi": 1.375,
+      "p_a_better": 1.0
+    },
+    "actionable": {
+      "a": 4.1833,
+      "b": 3.425,
+      "diff": 0.7583,
+      "ci_lo": 0.55,
+      "ci_hi": 0.9667,
+      "p_a_better": 1.0
+    },
+    "tone": {
+      "a": 4.4667,
+      "b": 3.125,
+      "diff": 1.3417,
+      "ci_lo": 1.1583,
+      "ci_hi": 1.5167,
+      "p_a_better": 1.0
+    },
+    "safe": {
+      "a": 4.75,
+      "b": 4.3417,
+      "diff": 0.4083,
+      "ci_lo": 0.2333,
+      "ci_hi": 0.6,
+      "p_a_better": 1.0
+    }
+  },
+  "quality_by_gold_routing": {
+    "gold_auto": {
+      "a": 4.4643,
+      "b": 3.625,
+      "diff": 0.8393,
+      "ci_lo": 0.6179,
+      "ci_hi": 1.0643,
+      "p_a_better": 1.0,
+      "n": 56
+    },
+    "gold_escalate": {
+      "a": 4.4781,
+      "b": 3.6125,
+      "diff": 0.8656,
+      "ci_lo": 0.6781,
+      "ci_hi": 1.0469,
+      "p_a_better": 1.0,
+      "n": 64
+    }
+  }
+}

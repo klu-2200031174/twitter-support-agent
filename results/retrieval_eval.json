@@ -1,0 +1,24 @@
+{
+  "similarity": {
+    "n": 200,
+    "cases_with_no_match_above_threshold": 0,
+    "top1_similarity": {
+      "mean": 0.3189,
+      "p10": 0.2026,
+      "p50": 0.2676,
+      "p90": 0.4528
+    },
+    "share_top1_below_0.30": 0.645,
+    "share_top1_below_0.20": 0.095
+  },
+  "proxy_relevance": {
+    "intent_match_at_1": 0.75,
+    "intent_match_at_4": 0.94,
+    "caveat": "Neighbour intents come from a TF-IDF classifier fitted on the golden labels, not from human annotation. Treat as indicative only."
+  },
+  "does_retrieval_help": {
+    "n": 120,
+    "spearman_top1sim_vs_judge_score": -0.0671,
+    "interpretation": "If this is near zero, the retrieved evidence is not what is driving reply quality -- the model's own prior is."
+  }
+}

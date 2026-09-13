@@ -1,0 +1,528 @@
+
+====================================================================================================
+CLUSTER 20  n=6194 (20.6%)
+  terms: delivery, ordered, just, kindle, app, today, time, amp, ve, thanks, product, days
+  C: I ordrd som prdcts and it delivrd on 16th Oct. Due to prodct damage rtrned but. :( Tis ia haw amzn harasing cstmrs.
+  A: Sorry about damaged products being delivered, Abhijeet. We'd like to take a closer look. 1/2
+     [turns=3 brand_turns=2]
+  C: van pulled up as I was leaving.He was on phone I looked at him he looked at me. Next thing I know delivery went to neighbour
+  A: Hi Jonathan, was it your delivery?
+     [turns=8 brand_turns=3]
+  C: Hi if a seller wants a photo of a damaged item I’ve received, how does this work? There seems to be no way to add one on the messaging system.
+  A: Hi there! To attach a photo to a seller response, first select the message from the seller, click reply and under that you'll see Browse. When you click Browse, you will see the option to upload a fil
+     [turns=4 brand_turns=2]
+  C: I’ve now been waiting over a week for a response from
+  A: Hi Chris - Sorry for the delay! Without sharing any personal or account information, would you please tell us a little more about the issue you're facing?
+     [turns=9 brand_turns=4]
+  C: Not sure if you would be interested in knowing terrible experience I had while trying to rectify problem with my A/C
+  A: Have you shared the details on the link provided to you earlier? If not yet then please do and we would connect shortly.
+     [turns=31 brand_turns=14]
+  C: Would be great if you could add the filters while browsing content with which we could filter movies and shows by their ratings/ year of release etc. Thanks!
+  A: Thanks for the suggestions. I'll be sure to pass on this internally to the concerned team for consideration.
+     [turns=2 brand_turns=1]
+
+====================================================================================================
+CLUSTER 21  n=2767 (9.2%)
+  terms: link, packaging, box, link link, ordered, really, delivery, like, thanks, got, just, time
+  C: you get some slack about packaging.. but we love the packaging you send your parcels in! Almost as good as the item we actually ordered 😂 #keepupthegoodwork #recycle <link>
+  A: Whether you're a kid or a cat, our boxes keep 'em entertained! 😁 📦 #OurCustomersRock
+     [turns=2 brand_turns=1]
+  C: Really that’s a lot of packaging?!? <link>
+  A: Hi, you can send us on your feedback about the packaging here: <link>
+     [turns=2 brand_turns=1]
+  C: hang your head in shame. All of that packaging for a small tiny box. Totally unnecessary and a total waste. Thankfully I recycle to cancel your carbon footprint. #ecowarrior <link>
+  A: We're always looking for opportunities to improve! Please, when able, submit direct packing feedback here: <link>
+     [turns=2 brand_turns=1]
+  C: Uhh...I was supposed to get the Logitech BRIO today, but instead I got some Maltesers? WTF <link>
+  A: I'm so sorry you didn't receive the correct item! Please get in contact with us here: <link> so we can get this sorted for you!
+     [turns=2 brand_turns=1]
+  C: Can you edplain this kind of unethical MRP discrepancy ? <link>
+  A: Apologies, Sourabh. Please report this to our support team here: <link> and we'll assist you.
+     [turns=2 brand_turns=1]
+  C: Had ordered this saree <link> but got some cheap looking one. Need exchange <link>
+  A: Apologies for the mix-up, Zahaida. Please have this reported to our support team here: <link>
+     [turns=8 brand_turns=5]
+
+====================================================================================================
+CLUSTER 5  n=2183 (7.3%)
+  terms: amazon, link, india, amazon pay, pay, delivery, amazon india, product, balance, like, amazon link, pay balance
+  C: Amazon. driver. pee on delivery front door😞
+  A: I'm so sorry! Who was the carrier listed for the order? Please check here: <link>
+     [turns=6 brand_turns=1]
+  C: sir amazon india are not taking cognizance on my complaint and giving shelter to fraud courior boy Amazon india just wasting time beyond taking action on fraud courior boy who mentioned report fraudently Amazon team didnt take act
+  A: Sorry for the disappointment. Please reply to the email you've received from our team and we'll reach out.
+     [turns=8 brand_turns=3]
+  C: Amazon India delivery quality is nowhere close to the quality they maintain in USA. Had 2 bad experiences with them in a week.
+  A: Sorry you're upset with the delivery. Could you share your experience, we'd like to look into this?
+     [turns=7 brand_turns=3]
+  C: hi guys, how can I schedule a delivery with you? I've contacted UPS but they told me that I have to talk with Amazon. The delivery date is tomorrow, I want to change it to Tuesday. Thanks.
+  A: Please reach out to us via phone or chat so we can discuss options: <link>
+     [turns=2 brand_turns=1]
+  C: the desktop version of Amazon Music has been acting weird. It keeps stopping 10 secs into the song. Is this fixable? Just noticed that it only happens with a few songs, still not sure why.
+  A: I'll be happy to help! Could you confirm which songs you've noticed are having trouble? Have you cleared cache/cookies?
+     [turns=9 brand_turns=2]
+  C: I am having trouble getting a hold of you guys! I ordered a pen from amazon from u, and it hasn't come!
+  A: I'm sorry to hear you haven't received your pen. What was the delivery date: <link>
+     [turns=2 brand_turns=1]
+
+====================================================================================================
+CLUSTER 13  n=1854 (6.2%)
+  terms: order, placed, cancel, cancel order, delivery, link, placed order, hi, cancelled, amazon, id, received
+  C: Due to some problem need to cancel order no 407-6518777-2709951. Kindly cancel and refund.
+  A: Once an order is dispatched we wouldn't be able to cancel the same. However, you may contact our support team 1/2
+     [turns=3 brand_turns=2]
+  C: Pathetic..Again ur delivery is delayed and this tym it is not even half way mark. This is happening to ur Prime User. Can it be expedited. Wat has happnd to ur delivery service...goin bad to worst.. My Order Details below <link>
+  A: Sorry for the delay in the delivery. May I know if you have reported this to our support team here : <link> Please don't provide your order details, we consider it to be personal information. Our page
+     [turns=11 brand_turns=6]
+  C: Tell me why, when I updated my payment card, my pre order from June gets declined due to card details need updating!!
+  A: Hey, sorry to hear that, were you able to update your 1 click settings?
+     [turns=10 brand_turns=3]
+  C: How a delivery person cancel an order? Please rethink your shipment policy. Very disappointed today.
+  A: Apologies for the unpleasant experience you had with our delivery associate. Please report this to our support team here: <link>
+     [turns=7 brand_turns=4]
+  C: Last time I order with
+  A: I'm sorry for any trouble! Can you tell us a bit more about what's going on?
+     [turns=7 brand_turns=3]
+  C: How can I pre-order a book on nearly six months ago, for it to get released two weeks ago and I get told it’s temporarily out of stock? Surely pre-ordering that far in advance means I get priority? Or amazon should have accounted 
+  A: I understand your frustration. What was the date given on your order confirmation e-mail: <link>
+     [turns=6 brand_turns=3]
+
+====================================================================================================
+CLUSTER 9  n=1590 (5.3%)
+  terms: delivered, order, package, today, delivered today, delivery, says, package delivered, link, parcel, product, amazon
+  C: So your logistics team is not doing so well with me. My first order that was supposed to be delivered Friday still has not shown up and the order I was supposed to have today claims it could not be delivered. Only with this shippe
+  A: I'm really sorry to hear about the issues with your recent orders! We'd like to make sure our transportation department is aware of this. With as much detail as possible, please provide your order inf
+     [turns=3 brand_turns=1]
+  C: Once again, your courrier has "delivered" a package that's not actually at my house.... second time I've had this issue with you
+  A: I'm sorry! Just to confirm; who's the carrier under tracking info: <link>
+     [turns=4 brand_turns=2]
+  C: my order no.404-3912542-2492343 not delivered since one week. I am not happy with the service
+  A: I'm sorry your order hasn't been delivered yet. I'd like to work on the issue and resolve it on priority. Please 1/3
+     [turns=26 brand_turns=13]
+  C: Thanks Huge barbie house delivered with photos all over it. Where’s your packaging? It was obviously a Christmas gift. You’ve just made a little girl not believe in #Santa
+  A: Oh no! We didn't mean to ruin any surprises. Some of our items are shipped without an Amazon box: <link> If needed, you may return the house here: <link>
+     [turns=3 brand_turns=1]
+  C: why do you guys allow to mark the item as delivered without sending a call or a message.
+  A: That doesn't sound right! Could you tell us if any of the concerns related to your order went unattended so that we can assist you accordingly?
+     [turns=2 brand_turns=1]
+  C: I got a notification to say the thing I ordered delivered today but it's in Gloucester and well I'm no
+  A: I'm sorry to hear your order wasn't delivered to you. Please contact us for further help here: <link>
+     [turns=2 brand_turns=1]
+
+====================================================================================================
+CLUSTER 17  n=1420 (4.7%)
+  terms: prime, amazon prime, amazon, member, prime member, video, delivery, prime video, days, link, order, time
+  C: Why does delivery on everything on show arriving Tuesday when I've got Prime?
+  A: I'm sorry for the wait! During this busy period, some deliveries may take slightly longer than usual, details: <link>
+     [turns=3 brand_turns=1]
+  C: alright amazon prime now is sick
+  A: Right on! 🤙 Glad you're enjoying Prime Now!
+     [turns=2 brand_turns=1]
+  C: I just spent two hours dealing with cust serv about being charged for prime out of the wrong acct. Nobody could help me! So frustrating. Worst cust serv ever! Not worth keeping my prime
+  A: I'm sorry for the poor experience, Nicole! We'd like to help! When you spoke with us, what options or insight were we able to provide? Without providing account info, can you tell us more about the pr
+     [turns=2 brand_turns=1]
+  C: What options ? Ordered a book on prime on 26th October and still no sign of it. cc #watchdog <link>
+  A: Hi, sorry to hear that you haven't received your book yet. Is the order fulfilled by Amazon: <link>
+     [turns=2 brand_turns=1]
+  C: my time is valuable and prime business is less than satisfactory. I have more problems dealing with your shipping than I should. Cancelling prime.
+  A: Sorry to hear that, Eric. Without revealing any personal information, can you tell me a bit more about the issue?
+     [turns=3 brand_turns=1]
+  C: where is my xbox one X. No more pre orders from me. Prime customer too. Very disappointed at you incompetence! 😡
+  A: Hi Mike, what is the most recent update you've received from us?
+     [turns=10 brand_turns=4]
+
+====================================================================================================
+CLUSTER 7  n=1236 (4.1%)
+  terms: package, deliver, delivery, link, amazon, time, today, just, deliver package, lost, door, home
+  C: Really disappointed by yourchoice of carrier. A package of mine is stuck with in Denver. Supposed to have 10/19 They have plenty of reviews on , all by other very disappointed customers. Very disappointed.
+  A: I'm sorry your order is missing, Brandon! Please reach out to us, so we can look into your options. <link>
+     [turns=3 brand_turns=1]
+  C: Paid for prime just to still not have my package here 5 Days later 🙃. Patiently awaits tho bro,
+  A: I'm sorry for the long wait time! We're here to help any way we can. Just to clarify, have we missed the expected delivery date in your order confirmation e-mail?
+     [turns=2 brand_turns=1]
+  C: I ordered my package yesterday afternoon, it's on my doorstep this morning, you're doing amazing 🤗
+  A: We strive to provide the best service possible, we truly appreciate you for sharing your experience with us!
+     [turns=2 brand_turns=1]
+  C: Stood in line 45 mins at to pick up package due yesterday. "It's downloaded," I'm told, "but it's not here." Womp, womp.
+  A: I'm sorry to hear you haven't received the package! Did the carrier provide any further information about when it will be available?
+     [turns=6 brand_turns=3]
+  C: Yet another package undelivered, despite me being in the house. Is "no attempt at all" a decent reason for failure?
+  A: Sorry to hear that Liam, what is the status of your parcel atm: <link> ?
+     [turns=4 brand_turns=2]
+  C: Hey so my package didnt arrive and Im traveling tomorrow. I paid extra $$$ for you to deliver.....what do we <link>
+  A: Hello Jorge! Since this is a time sensitive issue I would recommend contact us via phone or chat here: <link> Let us know if you need anything else!
+     [turns=2 brand_turns=1]
+
+====================================================================================================
+CLUSTER 12  n=1233 (4.1%)
+  terms: day, day delivery, delivery, day shipping, shipping, prime, days, prime day, order, ordered, link, pay
+  C: Why has your Prime 2 day shipping seemed to have really been bumped to 3 days with all items, even if ordered early on the order day.
+  A: I'm sorry for the frustration! If the item you're ordering is out of stock or unavailable to ship immediately, the shipping method time starts when the item ships. For more information, please visit h
+     [turns=4 brand_turns=2]
+  C: your services are degrading day by day right from delivery to returns. Delivery people are like local gundas who are very rude.
+  A: That's quite a remark. We'd like to help, could you let us know what went wrong?
+     [turns=22 brand_turns=6]
+  C: I love when I choose 2 day shipping for my order and it still hasn’t even shipped after 48 hours 😬
+  A: I'm really sorry for the wait! Some items require additional processing, and aren't able to be shipped right away.
+     [turns=2 brand_turns=1]
+  C: if I order a nintendo switch and games will it be prime same day delivery?? (I'm in the UK)
+  A: It depends on your location and where the item will be dispatched from. Delivery date options are provided at checkout.
+     [turns=4 brand_turns=2]
+  C: Have all of my 1 day delivery options been bumped to Monday delivery because of Black Friday?
+  A: I am sorry to hear this. We strive to offer you the best Black Friday Sales and Cyber Week Deals. During this time, deliveries may take slightly longer than usual. Please check the delivery date at ch
+     [turns=7 brand_turns=2]
+  C: .ca Why do you promise 2 day delivery if you cant deliver in 2 days?
+  A: Without posting account information, what's the date and most recent tracking here: <link> Have we missed the delivery date given?
+     [turns=6 brand_turns=3]
+
+====================================================================================================
+CLUSTER 15  n=1204 (4.0%)
+  terms: le, est, je, pas, et, pour, vous, colis, ai, que, la, en
+  C: "Wallay le colis y rentre pas dans la boite aux lettres, np lol, j'le balance dans le jardin et osef que le machin blanc qui tombe c'est de la neige." <link>
+  A: Bonsoir, je suis désolée d'apprendre cela. Pourriez-vous remplir le formulaire sur le lien suivant afin que je puisse vérifier votre dossier je vous prie: <link>
+     [turns=2 brand_turns=1]
+  C: et comme d’habitude les colis sont ouverts, enfoncés,.... quand est ce que vous confiez les produits à des vrais livreurs et pas des sans cervelle ? Meme avec un piano en photo sur le carton, y a aucun soins ! <link>
+  A: Bonjour, Je suis sincèrement navré pour ce désagrément. L'avez-vous signalé à notre service?
+     [turns=4 brand_turns=2]
+  C: bonjour j'ai un souci de compréhension sur une commande qui n'est pas arrivée :(
+  A: Bonjour, pouvez-vous nous expliquer davantage la situation, s'il vous plaît ?
+     [turns=4 brand_turns=2]
+  C: L’inverse d’Amazon Prime c’est Amazon Logistics. 5 jours que 2 colis ne sont toujours pas livrés.
+  A: Bonjour, vraiment désolé pour cela. Avez-vous signalé ces retards à notre service client pour vérifications ?
+     [turns=4 brand_turns=1]
+  C: Chez tu commande et paye pour être livrer le lendemain, livraisons jusqu'à 20:00 et la on t'envoie mail "tentative de livraison"
+  A: Bonjour, je suis désolée d'apprendre cela. Avez-vous signalé cet incident à notre service client ?
+     [turns=5 brand_turns=2]
+  C: Et d'ailleurs j'avais pas vu celui ci aussi toujours chez pour le prix de 20€ avec 5 boosters et 6 cartes promo exclusives <link>
+  A: 😉
+     [turns=2 brand_turns=1]
+
+====================================================================================================
+CLUSTER 2  n=1167 (3.9%)
+  terms: service, customer, customer service, worst, worst customer, amazon, poor, care, worst service, customer care, order, experience
+  C: Every single order (3) in the past week has been late when shipped by . I have not received customer service that has been satisfactory and the last package, I walked to USPS to pick up myself. Please make this right...
+  A: I'm sorry we missed our mark! Please reach out to us via chat or phone so we can take carrier feedback on your behalf. This will ensure the feedback is tied to your account. You can reach us here: <li
+     [turns=4 brand_turns=2]
+  C: 3rd attempt to find out why you aren't delivering prime orders to my address on a weekend &amp; still no response. Very poor customer service
+  A: Sorry to hear. If your address is listed as commercial it may block weekend deliveries. Can you delete your address from your account and re-add it, ensure that you allow Weekend Deliveries and check 
+     [turns=8 brand_turns=3]
+  C: Prime delivery due today is still in one of your fulfillment centres. Customer service can't help as any emails they've sent earlier today to sort this have gone unanswered. A wasted day and I still have no answer as to when to ex
+  A: Hello Joanne! It is not uncommon for orders to be dispatched and delivered on the same day! We do deliver until 21:00.
+     [turns=6 brand_turns=2]
+  C: I wished would restore my account and provide decent customer service #Gruen
+  A: Hi, sorry, have you received an email from the account specialists? Please check the spam/junk folders as well.
+     [turns=9 brand_turns=3]
+  C: Horrible Customer service at . Can you believe the customer service agent actually said “how many times do I have to tell you“ to a customer?! Completely unacceptable #badcustomerservice <link>
+  A: We're very sorry and we would like to have a member of our team reach out to you to further review the matter. If you could fill out the form below for us, we will reach out to you via the contact inf
+     [turns=3 brand_turns=1]
+  C: Really wish had better customer service sometimes.
+  A: I'm sorry for the poor experience! Without including personal/acct info, could you tell us more about this? We want to help!
+     [turns=5 brand_turns=1]
+
+====================================================================================================
+CLUSTER 4  n=1106 (3.7%)
+  terms: que, el, mi, la, por, para, pedido, se, es, una, ya, lo
+  C: cuando estarán disponibles los capítulos que van lanzando de mr. Robot para México?
+  A: Hola. No tenemos esa información, pero te recomendamos en ponerte atento a nuestra página y redes sociales para novedades.
+     [turns=2 brand_turns=1]
+  C: Ayer empecé a probar prime de . Mi primer pedido que era para hoy no ha llegado. Nada recomendable
+  A: Hola Marc, lamentamos el inconveniente. ¿Has recibido el email de confirmación del envio del paquete?
+     [turns=4 brand_turns=1]
+  C: sigue sin tener el álbum de "OT Gala 2" y SUFRO! 😑
+  A: Hola Potter, puedes estar pendiente de la disponibilidad del producto en el Sitio Web.
+     [turns=2 brand_turns=1]
+  C: Si no lo han enviado porque sigue poniendo que me llega hoy? <link>
+  A: Hola, ¿has recibido algún correo de confirmación indicando que el pedido ya ha sido enviado o que ha cambiado la fecha de entrega?
+     [turns=8 brand_turns=4]
+  C: Ayer pedí un ratón por Amazon, se suponía que tenia que llegar el miércoles y ha llegado hoy, me habéis alegrado el dia <link>
+  A: Nos llena de entusiasmo saber que has recibido tu pedido Carlos y que ahora podrás disfrutar de tu producto. Definitivamente tu mensaje también nos ha alegrado el día😄👌. Y este ratón ¿será para algún 
+     [turns=3 brand_turns=1]
+  C: En apenas 15 días he tenido dos incidencias con . Primero me hacen un cargo en mi cuenta sin mi permiso para verificar y tengo que reclamar para que me lo devuelvan. Y ahora me cobran un artículo que he tenido que cancelar porque 
+  A: Sentimos los inconvenientes, en este caso te recomiendo ingresar al siguiente enlace para mayor información: <link>
+     [turns=2 brand_turns=1]
+
+====================================================================================================
+CLUSTER 10  n=1017 (3.4%)
+  terms: help, need, need help, help link, order, link, return, hi, issue, amazon, account, help order
+  C: Someone help: can’t use my Fire TV stick to fix my network settings (idk why it won’t work) and this happens when I try to CEC through the Vizio SmartCast app. <link>
+  A: Kelvon, I'm sorry to hear that you're unable to fix your network settings. Can you tell me what version of Fire TV stick you have? You can find out here: <link>
+     [turns=6 brand_turns=3]
+  C: "unable to connect to server..." HBO Go is inaccessible via my kindle and my mother's *for weeks*....HELP please
+  A: I hate to hear that you're having Kindle troubles! Just to clarify, is it the app that's unable to connect or the Kindle?
+     [turns=6 brand_turns=3]
+  C: Hi n please add Kannada Movies and TV shows in your prime videos!. It would help to reach out 6.5Cr Kannada ppl!.
+  A: We'll continue to add new content. I'll forward your feedback internally for review.
+     [turns=2 brand_turns=1]
+  C: I’m having major account problems and need help ASAP. I can’t find any way of contacting you!! Can you give me a phone number ?
+  A: Oh no! If you haven't received any e-mails from our Account Specialists, give us a call here: <link>
+     [turns=2 brand_turns=1]
+  C: need help with refund. Apparently there is no escalation as per customer rep who says he is the last line of escalation and he does not have any supervisor
+  A: Apologies for the inconvenience. We'd like to have a closer look on your query. Please share your details here: <link> and we will get in touch with you.
+     [turns=2 brand_turns=1]
+  C: sir, I am being harassed frequently. Kindly have a look to the reply on last 3 lines. plz help me. I request. #AmazonIndia <link>
+  A: Please reply to the correspondence you've received from us and we'll be sure to help you in getting this issue resolved.
+     [turns=50 brand_turns=26]
+
+====================================================================================================
+CLUSTER 14  n=903 (3.0%)
+  terms: ich, nicht, die, ist, das, und, der, bei, es, kann, mit, auf
+  C: Hey , meine Mutter hat sich gerade beschwert, dass zwar in TuneIn ist, aber Echo Dot den Sender trotzdem nicht kennt. außerdem wird die Playlist "24 7", die in ihrem Spotify-Account gespeichert ist, nicht erkannt.
+  A: Melde dich mit deinen Fragen am besten mal direkt bei unseren Spezialisten : <link> Viele Grüße
+     [turns=3 brand_turns=1]
+  C: ich habe gestern einen Gutschein per Post bekommen, es war eine Plastikkarte... müsste es unbedingt so sein? Warum nicht aus Papier, oder noch besser, eine Email? Wieviele versenden Sie im Jahr? Ist ja nur eine sinnlose Plastikver
+  A: Hey Eli, danke für dein Feeback.
+     [turns=2 brand_turns=1]
+  C: . Ich weiß gerne, wieviele Artikel auf meinem Wunschzettel sind. Warum muss die Angabe alle paar Monate weg sein? Bitte zurück!
+  A: Hi, das Design unserer Website ändert sich häufig. Dein Feedback zum Wunschzettel leite ich sehr gerne weiter. Lieber Gruß
+     [turns=3 brand_turns=1]
+  C: Dienstag, Freitag, Dienstag Und am Dienstag steht da wieder Freitag? Naja, Hätte ja klappen können... 😢 Support Mail ist schon mal raus 🤷 <link>
+  A: Hallo, leider habe ich hier über Twitter keinen Einblick in deine Bestellung. Daher ist der Kontakt zum Kundenservice der korrekte Weg. Ich hoffe, dass die Lieferung ganz bald bei dir ankommt. Liebe G
+     [turns=2 brand_turns=1]
+  C: Hey könnt ihr mir vielleicht weiterhelfen? Habe die Folge extra runtergeladen und pausiert. Will weitergucken und folgender Fehler, der mit einem Reset des Fortschritts innerhalb der Folge einhergeht, tritt auf. Eher semi cool. <l
+  A: Mein Lösungsansatz wäre hier leider auch der erneute Download. 😟 Warum der Titel hier Probleme beim Abspielen macht, kann ich leider nicht nachvollziehen. Ich hoffe, du kannst die Folge zeitnah nachho
+     [turns=6 brand_turns=2]
+  C: Und mal wieder was schief gelaufen...😔 Irgendwie ist da der Wurm drin bei 😩 Aber lass Dich nicht unterkriegen!🙈🎉 <link> Hab so n hass auf !!!! Nicht auf er kann ja auch nix für. Aber auf Amazon 😬😬
+  A: Was ist denn passiert?
+     [turns=4 brand_turns=1]
+
+====================================================================================================
+CLUSTER 16  n=862 (2.9%)
+  terms: account, membership, prime membership, prime, bank, amazon, bank account, money, prime account, charged, locked, ve
+  C: still hasn’t refunded me my money for the unauthorized charges that was made to my account
+  A: I'm sorry for the unexpected charge to your account. We don't have access to account information via Twitter, please reach out to us here: <link>
+     [turns=2 brand_turns=1]
+  C: I've had a kindle unlimited payment of £7.99 debit my bank account. I don't have a Kindle????
+  A: Hi Jenny, it's possible to have a Kindle Unlimited subscription without a Kindle. Can you check on your account to see if you have a subscription active? You can check here: <link>
+     [turns=7 brand_turns=3]
+  C: i don’t need amazon prime so i made sure to cancel it last week before i got charged. and they charged it anyway, 2 days ahead of time. i somehow have charges on my bank account for 11/24. it’s not even 11/24 in japan right now ho
+  A: Sorry to hear this! Can you contact us so that we can look into this further? You can reach out to us here: <link>
+     [turns=2 brand_turns=1]
+  C: hi I recently canceled or thought I canceled my prime account and was charged for the full year.. is there a way to cancel that
+  A: Thanks for reaching out to us, Tyler! If you'd like to cancel your Prime membership please visit us here: <link>
+     [turns=2 brand_turns=1]
+  C: hi there, I can't seem to register an Amazon seller account... every time I enter my password it just knocks me back to login
+  A: That's odd... are you using a mobile device or a computer? Try clearing cache and cookies and then try registering.
+     [turns=4 brand_turns=2]
+  C: you tell me there is someone else with an Amazon account at my address. I am telling you there isn’t. How do I resolve this?
+  A: Hello, Kirstin. Without giving personal or account info, can you please elaborate about the issue you're having?
+     [turns=4 brand_turns=2]
+
+====================================================================================================
+CLUSTER 11  n=770 (2.6%)
+  terms: refund, order, product, received, amazon, returned, money, item, return, link, got, days
+  C: I got it today. It’s impossible to find the instructions for return and refund. Anyway, the refund is only 14$, ant the whole thing costed 46$. Not fair
+  A: Hello! We don't have access to your Amazon account via Twitter. When you have time please get in touch with us here: <link> We'll be happy to help!
+     [turns=11 brand_turns=4]
+  C: I want refund of one of my orders but i am only seeing replacement option available. Any Help?
+  A: I get your concern. Could you please let us know what item you are trying to return?
+     [turns=7 brand_turns=4]
+  C: hey, I have paid through cash on delivery and want to return a product. Can I get the refund into my amazon pay balance?
+  A: Yes you may, Teja. However, if it is a seller fulfilled order, we may not be able to issue it to your Amazon account.
+     [turns=2 brand_turns=1]
+  C: amazone did fraud with me.. i buy a product prepaid and amazone didn't give me the product or refund Order # 403-4256956-6053949
+  A: I'd like to understand the issue better. Please share your details here: <link> and I'll reach out.
+     [turns=3 brand_turns=2]
+  C: Hi. I need to query a refund which doesn't seem to have been paid in completion. Who do I talk to about this? I can't find anything on the site.
+  A: Hi Amy- You can contact us directly via the below link: <link> and we can look into this with you. I would suggest phone or chat for faster response. Thanks.
+     [turns=2 brand_turns=1]
+  C: Why havent i recieved my refund yet 🤔
+  A: Hey there! How long ago did you request a refund from your Amazon Video subscription? We'd like to help!
+     [turns=4 brand_turns=2]
+
+====================================================================================================
+CLUSTER 3  n=721 (2.4%)
+  terms: don, know, don know, link, want, don want, amazon, delivery, time, order, don think, deliver
+  C: Please help i don't know where my package is i haven't gotten anyupdates in over 12 hours
+  A: I'm sorry to hear the tracking hasn't updated. Have we missed our mark with the delivery date? Please keep us posted!
+     [turns=5 brand_turns=2]
+  C: Can somebody explain this to me? I don't get it 🤔 #FairyTail #deliverybirds <link>
+  A: Hello Hannah, we are switching our map pointer into My Little Pony 😉 Do you like it?
+     [turns=3 brand_turns=1]
+  C: Dear I don’t pay for prime for you to plan to deliver over a week later missing my daughters birthday. #sortitout
+  A: I'm so sorry you're still waiting for the order! Have we missed the delivery date yet?
+     [turns=12 brand_turns=5]
+  C: so I pay for prime and my packages don't get to me? This is the 3rd time in &lt; 2 months. 2 days=never 😡 #justtryingtowin
+  A: Hey Nikki! I'm sorry for the frustrating experiences. We'd like to help! Is there an order you are waiting?
+     [turns=5 brand_turns=2]
+  C: Every single time is responsible for delivery I don't get it because even though I pay for Prime they employ anybody with a car who can't be arsed to find parking! Everyone else can find the f***ing place and we don't pay them eve
+  A: I'm so sorry for the frustration! We would like to help. What is the current status of your delivery? You can check by navigating to your order here: <link>
+     [turns=5 brand_turns=2]
+  C: hi, I need a sandwich grill which can accommodate 4 sandwiches (2 bread/1 sandwich). Products details don't carry the infos I need
+  A: Could you contact our support team here : <link> so that we'll help you with the product info.
+     [turns=2 brand_turns=1]
+
+====================================================================================================
+CLUSTER 19  n=693 (2.3%)
+  terms: hey, link, thanks, delivery, hey amazon, order, shit, guys, hey guys, just, amazon, package
+  C: Hey if your frustration free packaging is supposed to be ‘low-waste’, why did it take 4 boxes and 10 sheets of packing paper to mail me 2oz. of essential oils? #waste <link>
+  A: Wow, those tiny glass bottles were certainly safe! We're always looking to improve, and the best way to get that message to the fine folks that improve that process is through this link! So please let
+     [turns=2 brand_turns=1]
+  C: hey Amazon, nice going...still don’t have my credit on the shipping. The CSR lady was helpful and guys made her not keep her word...shame, shame... 2 hours...right!!!
+  A: Was the refund posted to a gift card or a credit card? We are here to help.
+     [turns=3 brand_turns=1]
+  C: Hey can you confirm that this refurbished printer comes with the "starter" toner? Thanks! <link>
+  A: Sure! After reviewing the description listed, this item does not appear to include starter toner.
+     [turns=3 brand_turns=1]
+  C: Hey how difficult is to add feature to attach location to delivery address, it can save lot of time of customers?
+  A: Thank you for the suggestions. I have forwarded it to the concerned team. I'm sure our team will work on it.
+     [turns=2 brand_turns=1]
+  C: Hey ! Got great security cam vid of your delivery driver pulling into drive and THROWING package. Not even close 2 door. Really? <link>
+  A: I'd like to have a member of our team look into this, please send us the order/tracking details: <link>
+     [turns=4 brand_turns=1]
+  C: Hey you guys need more varied playlist for music. It keeps repeating the same list every time.
+  A: Thank you for flagging this to us. I'll be sure to forward your feedback to the concerned team internally.
+     [turns=2 brand_turns=1]
+
+====================================================================================================
+CLUSTER 23  n=523 (1.7%)
+  terms: email, email address, address, account, received, got email, received email, got, changed, saying, email saying, amazon
+  C: where do I send an email regarding a textbook rental that was sent to me with extensive damage?
+  A: Hey, we'd love to help! You can return damaged rentals by following the steps here Kaitlin: <link>
+     [turns=3 brand_turns=1]
+  C: Was told that one day delivery would use a different carrier, have just got the dispatch email and it says it’s the same 1/2 2/2 carrier who delivered my previous item which i never received, to a random address. Will be disappoin
+  A: I'm sorry your order was delivered to the wrong address! We'd like to make sure you get the new order so keep us posted!
+     [turns=4 brand_turns=1]
+  C: I have a complaint. Can you provide me an administrator email address
+  A: We are here for your assistance. Please let us know what went wrong and we will be happy to help you accordingly.
+     [turns=3 brand_turns=1]
+  C: Hi, I just had an email saying there has been a delay in dispatching my order. Can I get my money back for the cost of delivery?
+  A: Hi Holly, sorry to hear that. Please contact us here: <link> so an agent can look into this for you.
+     [turns=2 brand_turns=1]
+  C: drivers are liars, email saying attempted delivery but I've been out front all morning with a British Gas engineer 1/2
+  A: I'm sorry for the trouble with the order, Daniel. Please give us a call here, <link> so we can look into it.
+     [turns=16 brand_turns=8]
+  C: Hi, I’ve received this email today, it doesn’t look quite right. Is it actually from you? <link>
+  A: Hey Caroline! Here is a handy link which will guide you on identifying if the email was sent from us or not: <link> Hope this helps! ^JC.
+     [turns=2 brand_turns=1]
+
+====================================================================================================
+CLUSTER 8  n=489 (1.6%)
+  terms: new, link, just, brand new, got, amazon, brand, ordered new, ordered, delivery, book, old
+  C: I've had my new Fire 10 tablet for five minutes and it's already freezing and not opening things.
+  A: That's not the experience we want you to have! I recommend making sure unused apps are closed. Press the square button at the bottom of the screen to check. If that doesn't work, please press/hold 'po
+     [turns=2 brand_turns=1]
+  C: really poor service from your customer support. I'm going to have a lot of inconvenience co of you'll. Was guaranteed by 3 different CS representatives that I would get a replacement device within 1 day of pickup of spoilt phone. 
+  A: Orders are marked for delivery on the basis of multiple connected logistic support. (1/2)
+     [turns=10 brand_turns=4]
+  C: got to question the wisdom of switching to a new returns process that doesn’t work right before Christmas #passmyparcelsucks
+  A: Hi, sorry to hear that, are you having an issue with a return at the moment?
+     [turns=4 brand_turns=2]
+  C: thanks for screwing up my new door.. <link> <link>
+  A: We would like to help you. Please share your details with us here: <link> We'll get in touch shortly.
+     [turns=5 brand_turns=2]
+  C: Hi! I bought some X3 earbuds from your warehouse deals section. They shipped with missing accessories even though it was promised as "like new". I love the earbuds but I can't wear them without the size of fins I need :(
+  A: We'd like to take a closer look at this with you. Please reach out at your earliest convenience here: <link>
+     [turns=5 brand_turns=2]
+  C: I was very disappointed to find my packages by my mailbox with no notice of delivery. Is this the new norm? Thankfully my son saw them when he left or they would have been there all night. I'd prefer Monday delivery to my porch th
+  A: So sorry for the trouble, Jennie! This is definitely not the service we aim to provide for our customers. We'd love to help out! Just to further clarify, could you confirm the carrier for delivery wit
+     [turns=4 brand_turns=2]
+
+====================================================================================================
+CLUSTER 22  n=487 (1.6%)
+  terms: people, wrong, company, link, delivery, amp, delivery people, product, sent, sent wrong, just, amazon
+  C: <link> is projecting themselves as amazon and trying to cheat people. Have sent an email to indian cybercrime.
+  A: Thank you for bringing this to our notice, Mukund. Could you please provide the link to the (1/2)
+     [turns=7 brand_turns=4]
+  C: people who ordered echo today got discount twice then why no suchthing for ppl who ordered previously? Badthing
+  A: I'm sorry to see you upset. Echo has just been launched on amazon.in. Previously it was available on our partner websites.
+     [turns=3 brand_turns=1]
+  C: super disappointed with today- sucky service from a normally great company :(
+  A: Hi Jess, I'm sorry to hear this. Without sharing any personal information is there something we can help you with?
+     [turns=8 brand_turns=4]
+  C: is it normal for your delivery people to ring the doorbell and stand there for 4 minutes before they went and sat in their car in my driveway for another 5 minutes?
+  A: I'm so sorry about this experience- thanks for bringing this to our attention! Just to confirm, who's the carrier shown here: <link> Let us know!
+     [turns=5 brand_turns=2]
+  C: do u nutheads even check the number of agent. 2nd time in row and damm number is wrong.. WTF is wrong with u?
+  A: Sorry for the trouble, Lalit. Please report this to our support team here: <link> for assistance.
+     [turns=2 brand_turns=1]
+  C: is really losing my trust lately. Since all of the recent things I’ve ordered have been wrong and/or defective #veryunsatisfied.
+  A: That's not what we like to hear. Are you having this issue with a recent order?
+     [turns=8 brand_turns=4]
+
+====================================================================================================
+CLUSTER 18  n=447 (1.5%)
+  terms: en, la, el, que, para, mi, por, link, hola, lo, en el, una
+  C: Con , yo sí creo en el #BuenFin ❤️ ... ahora viene el black friday 😏🙏🏻🖤 Anótense ese gol, cortesía de la casa <link>
+  A: Hola Jondy, esperamos que te encuentres bien. ¿Tu producto ha llegado en buen estado?
+     [turns=4 brand_turns=2]
+  C: Como que en un día y son 5 ? <link>
+  A: ¡ Hola! ¿En este momento tienes algun pedido pendiente o retrasado?
+     [turns=6 brand_turns=2]
+  C: Pues a pesar de lo tardado que fue, agradezco su atención, pero la verdad de las ultimas veces que compro en amazon
+  A: Lamento cualquier inconveniente, ¿Podrías comentarnos más sobre lo que ha ocurrido sin publicar detalles de tu cuenta?
+     [turns=5 brand_turns=2]
+  C: Para que pido envío en un día a si está pqra q tarde más de 2? O seur se vuelve formal o habrá q dejar de usar amazon para tener nuestros pedidos en su día
+  A: Hola, lamentamos los inconvenientes con tu pedido, podrías indicarnos si has podido contactar con Seur?
+     [turns=8 brand_turns=4]
+  C: Y llego mi pantalón especial para andar en patines y la nueva correa para mi reloj Garmin! Gracias #! <link>
+  A: ¡Hola! Nos alegra saber que ya recibiste tu pedido. Dime, ¿ya lo estrenaste? 🤔
+     [turns=2 brand_turns=1]
+  C: Podrian ayudarme a saber donde esta mi pedido? Vivo en un edificio de 5 plantas, lo siguiente sera "entregado a alguien"? Salu2 <link>
+  A: Lamento el inconveniente Juan, por este medio no contamos con acceso a tu cuenta, ¿has intentado contactar al transportista?
+     [turns=6 brand_turns=3]
+
+====================================================================================================
+CLUSTER 1  n=389 (1.3%)
+  terms: late, days late, prime, delivery, days, order, package, amazon, day, late delivery, day late, packages
+  C: is it possible for you expedite a particular order? It's a friend's b'day and I was late to order the gift for her.
+  A: We aim to deliver as per the estimated delivery date assigned to packages. Unfortunately, we'd not be able to 1/2
+     [turns=5 brand_turns=3]
+  C: It is a little disappointing being a prime member and having my order still not delivered, it is now 3 days late.
+  A: I'm sorry for the disappointing experience. That isn't what we want for you, or any of our customers. Have we provided an updated delivery date for the order? You can check that information here: <lin
+     [turns=6 brand_turns=3]
+  C: -received drenched, damaged fridge.Late delivery on Mon 9 Oct.Wasted 2 leaves on recieving &amp; pickup.Will amazon pay 4 my leaves? <link>
+  A: Sorry for the inconvenience. Please Contact our support team here: <link> for any further assistance.
+     [turns=14 brand_turns=5]
+  C: disappointed with prime service this week. One package a day late earlier this week and another one 3 days late and still missing?
+  A: I'm sorry for the delays! What does the current tracking show for the missing order? You can view it here: <link>
+     [turns=2 brand_turns=1]
+  C: I wish amazon would stop putting USPS as my carrier. This is the FOURTH package I’ve received that was late/didn’t arrive at all
+  A: I'm sorry for the delivery issues! We'd like to get this all sorted! Please reach out to us here: <link>
+     [turns=2 brand_turns=1]
+  C: What has been wrong with Amazon lately? Shipments going out late and now I got an email about my package being lost or damaged but stranger they want me to contact them about it. <link>
+  A: Hi Amelia, are you currently waiting on an order?
+     [turns=2 brand_turns=1]
+
+====================================================================================================
+CLUSTER 0  n=386 (1.3%)
+  terms: arrive, arrive today, time, today, order, supposed arrive, did, supposed, item, delivery, ordered, didn arrive
+  C: #amzl_us Way to literally ruin the party. Packages were supposed to arrive yesterday now say Wednesday. Why am I paying for prime? Why don't you experiment on the non prime customers. I paid for a guaranteed service. I want my mon
+  A: Very sorry to hear about the delay. Delays are rare but do occur on some occasions. Please do let us know if the parcel does not arrive within the dates provided to you.
+     [turns=3 brand_turns=1]
+  C: hi there waiting for a pre ordered DVD to arrive suppose to be here today and doesn't say its out for delivery yet will it still arrive?
+  A: Some orders are able to ship and arrive within the same day! Please keep us posted on its arrival!
+     [turns=3 brand_turns=1]
+  C: when you get for a fast delivery and it says your item will arrive 2 days after they said it would <link>
+  A: I'm so sorry! Please let us know if it doesn't arrive tomorrow! We want to make sure you get your order.
+     [turns=3 brand_turns=1]
+  C: should only &amp; selectively use #USPS for certain deliveries since the majority of time your order isn't going to arrive as promised, thus defeating entire premise of #AmazonPrime This is about #logistics plain &amp; simple.
+  A: Hi there! I'm so sorry to hear this. Without revealing any account and personal information, will you give us more details about the issue? Did we miss a delivery?
+     [turns=4 brand_turns=2]
+  C: Why am I waiting this much longer than I was told my order would arrive? I don't expect to pay the price and not even get it when said I should.
+  A: What is the current status of your order Sam? Did you get any emails advising there might be a delay?
+     [turns=4 brand_turns=2]
+  C: is there any way I can find out when a prime parcel is due to arrive. Just missed the delivery man when I went for a shower
+  A: Oh no. Sorry to hear. Does the tracking say out for delivery or delivery attempted? We can deliver up to 9PM.
+     [turns=11 brand_turns=4]
+
+====================================================================================================
+CLUSTER 6  n=359 (1.2%)
+  terms: echo, dot, echo dot, amazon echo, alexa, amazon, music, india, link, echo plus, app, devices
+  C: Hey...Just bought and echo from ... Disappointed to see Harmony skill is not enabled in alexa India store..You are selling Harmony hubs on Amazon.in, Why not enable the skill in Indian store??Only made for and ??
+  A: Thousands of Indian &amp; global developers are bringing up more than 10,000 new skills in India. We will keep adding them soon.
+     [turns=2 brand_turns=1]
+  C: Is Amazon Music exclusive to Echo users in India?
+  A: While we haven't made any announcement yet, please stay tuned to the website for further updates.
+     [turns=3 brand_turns=1]
+  C: 1/ onboarding is infuriating. Before opening I downloaded the app, and tried to sign in. 2/ I copy/paste my password then login. App prompts me to re-type my password + do a captcha. Copy/paste is now disabled. I quit the app. 3/ 
+  A: We'd like to help with setting up your Echo! For real-time troubleshooting, reach us here: <link>
+     [turns=10 brand_turns=1]
+  C: Just updated my home with hub &amp; echo dots in each room with with Alexa around the house and changed my light bulbs &amp; plugs sockets to my whole house is now voice controlled by Alexa it’s amazing <link>
+  A: That seems like an amazing set up!
+     [turns=3 brand_turns=1]
+  C: how to link my amazon echo plus and fire tv stick using amazon alexa india app ?? Pls help
+  A: Keep checking the Echo page for new devices that will support Alexa.
+     [turns=2 brand_turns=1]
+  C: Any ETA when Alexa coming to firestick so that echo and firestick can work together. Thanks
+  A: Thanks for reaching out to us today. We haven't made any announcement. Please stay tuned for any further update on this.
+     [turns=2 brand_turns=1]

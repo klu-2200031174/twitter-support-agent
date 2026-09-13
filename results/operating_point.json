@@ -1,0 +1,940 @@
+{
+  "cost_ratio_assumed": 10.0,
+  "tuned_threshold": 0.75,
+  "tuning_stratum": "B_targeted",
+  "eval_stratum": "A_random",
+  "sweep_on_A": [
+    {
+      "threshold": 0.0,
+      "tp": 56,
+      "fp": 14,
+      "fn": 8,
+      "tn": 42,
+      "recall": 0.875,
+      "automation_rate": 0.4167,
+      "missed_rate": 0.0667,
+      "cost_per_100": 78.33
+    },
+    {
+      "threshold": 0.05,
+      "tp": 56,
+      "fp": 14,
+      "fn": 8,
+      "tn": 42,
+      "recall": 0.875,
+      "automation_rate": 0.4167,
+      "missed_rate": 0.0667,
+      "cost_per_100": 78.33
+    },
+    {
+      "threshold": 0.1,
+      "tp": 56,
+      "fp": 14,
+      "fn": 8,
+      "tn": 42,
+      "recall": 0.875,
+      "automation_rate": 0.4167,
+      "missed_rate": 0.0667,
+      "cost_per_100": 78.33
+    },
+    {
+      "threshold": 0.15,
+      "tp": 56,
+      "fp": 14,
+      "fn": 8,
+      "tn": 42,
+      "recall": 0.875,
+      "automation_rate": 0.4167,
+      "missed_rate": 0.0667,
+      "cost_per_100": 78.33
+    },
+    {
+      "threshold": 0.2,
+      "tp": 56,
+      "fp": 14,
+      "fn": 8,
+      "tn": 42,
+      "recall": 0.875,
+      "automation_rate": 0.4167,
+      "missed_rate": 0.0667,
+      "cost_per_100": 78.33
+    },
+    {
+      "threshold": 0.25,
+      "tp": 56,
+      "fp": 14,
+      "fn": 8,
+      "tn": 42,
+      "recall": 0.875,
+      "automation_rate": 0.4167,
+      "missed_rate": 0.0667,
+      "cost_per_100": 78.33
+    },
+    {
+      "threshold": 0.3,
+      "tp": 56,
+      "fp": 14,
+      "fn": 8,
+      "tn": 42,
+      "recall": 0.875,
+      "automation_rate": 0.4167,
+      "missed_rate": 0.0667,
+      "cost_per_100": 78.33
+    },
+    {
+      "threshold": 0.35,
+      "tp": 56,
+      "fp": 14,
+      "fn": 8,
+      "tn": 42,
+      "recall": 0.875,
+      "automation_rate": 0.4167,
+      "missed_rate": 0.0667,
+      "cost_per_100": 78.33
+    },
+    {
+      "threshold": 0.4,
+      "tp": 56,
+      "fp": 14,
+      "fn": 8,
+      "tn": 42,
+      "recall": 0.875,
+      "automation_rate": 0.4167,
+      "missed_rate": 0.0667,
+      "cost_per_100": 78.33
+    },
+    {
+      "threshold": 0.45,
+      "tp": 56,
+      "fp": 14,
+      "fn": 8,
+      "tn": 42,
+      "recall": 0.875,
+      "automation_rate": 0.4167,
+      "missed_rate": 0.0667,
+      "cost_per_100": 78.33
+    },
+    {
+      "threshold": 0.5,
+      "tp": 56,
+      "fp": 14,
+      "fn": 8,
+      "tn": 42,
+      "recall": 0.875,
+      "automation_rate": 0.4167,
+      "missed_rate": 0.0667,
+      "cost_per_100": 78.33
+    },
+    {
+      "threshold": 0.55,
+      "tp": 56,
+      "fp": 14,
+      "fn": 8,
+      "tn": 42,
+      "recall": 0.875,
+      "automation_rate": 0.4167,
+      "missed_rate": 0.0667,
+      "cost_per_100": 78.33
+    },
+    {
+      "threshold": 0.6,
+      "tp": 57,
+      "fp": 20,
+      "fn": 7,
+      "tn": 36,
+      "recall": 0.8906,
+      "automation_rate": 0.3583,
+      "missed_rate": 0.0583,
+      "cost_per_100": 75.0
+    },
+    {
+      "threshold": 0.65,
+      "tp": 58,
+      "fp": 26,
+      "fn": 6,
+      "tn": 30,
+      "recall": 0.9062,
+      "automation_rate": 0.3,
+      "missed_rate": 0.05,
+      "cost_per_100": 71.67
+    },
+    {
+      "threshold": 0.7,
+      "tp": 61,
+      "fp": 29,
+      "fn": 3,
+      "tn": 27,
+      "recall": 0.9531,
+      "automation_rate": 0.25,
+      "missed_rate": 0.025,
+      "cost_per_100": 49.17
+    },
+    {
+      "threshold": 0.75,
+      "tp": 62,
+      "fp": 32,
+      "fn": 2,
+      "tn": 24,
+      "recall": 0.9688,
+      "automation_rate": 0.2167,
+      "missed_rate": 0.0167,
+      "cost_per_100": 43.33
+    },
+    {
+      "threshold": 0.8,
+      "tp": 62,
+      "fp": 40,
+      "fn": 2,
+      "tn": 16,
+      "recall": 0.9688,
+      "automation_rate": 0.15,
+      "missed_rate": 0.0167,
+      "cost_per_100": 50.0
+    },
+    {
+      "threshold": 0.85,
+      "tp": 63,
+      "fp": 45,
+      "fn": 1,
+      "tn": 11,
+      "recall": 0.9844,
+      "automation_rate": 0.1,
+      "missed_rate": 0.0083,
+      "cost_per_100": 45.83
+    },
+    {
+      "threshold": 0.9,
+      "tp": 64,
+      "fp": 51,
+      "fn": 0,
+      "tn": 5,
+      "recall": 1.0,
+      "automation_rate": 0.0417,
+      "missed_rate": 0.0,
+      "cost_per_100": 42.5
+    },
+    {
+      "threshold": 0.95,
+      "tp": 64,
+      "fp": 55,
+      "fn": 0,
+      "tn": 1,
+      "recall": 1.0,
+      "automation_rate": 0.0083,
+      "missed_rate": 0.0,
+      "cost_per_100": 45.83
+    },
+    {
+      "threshold": 1.0,
+      "tp": 64,
+      "fp": 56,
+      "fn": 0,
+      "tn": 0,
+      "recall": 1.0,
+      "automation_rate": 0.0,
+      "missed_rate": 0.0,
+      "cost_per_100": 46.67
+    }
+  ],
+  "sweep_on_B_for_tuning": [
+    {
+      "threshold": 0.0,
+      "tp": 45,
+      "fp": 11,
+      "fn": 4,
+      "tn": 20,
+      "recall": 0.9184,
+      "automation_rate": 0.3,
+      "missed_rate": 0.05,
+      "cost_per_100": 63.75
+    },
+    {
+      "threshold": 0.05,
+      "tp": 45,
+      "fp": 11,
+      "fn": 4,
+      "tn": 20,
+      "recall": 0.9184,
+      "automation_rate": 0.3,
+      "missed_rate": 0.05,
+      "cost_per_100": 63.75
+    },
+    {
+      "threshold": 0.1,
+      "tp": 45,
+      "fp": 11,
+      "fn": 4,
+      "tn": 20,
+      "recall": 0.9184,
+      "automation_rate": 0.3,
+      "missed_rate": 0.05,
+      "cost_per_100": 63.75
+    },
+    {
+      "threshold": 0.15,
+      "tp": 45,
+      "fp": 11,
+      "fn": 4,
+      "tn": 20,
+      "recall": 0.9184,
+      "automation_rate": 0.3,
+      "missed_rate": 0.05,
+      "cost_per_100": 63.75
+    },
+    {
+      "threshold": 0.2,
+      "tp": 45,
+      "fp": 11,
+      "fn": 4,
+      "tn": 20,
+      "recall": 0.9184,
+      "automation_rate": 0.3,
+      "missed_rate": 0.05,
+      "cost_per_100": 63.75
+    },
+    {
+      "threshold": 0.25,
+      "tp": 45,
+      "fp": 11,
+      "fn": 4,
+      "tn": 20,
+      "recall": 0.9184,
+      "automation_rate": 0.3,
+      "missed_rate": 0.05,
+      "cost_per_100": 63.75
+    },
+    {
+      "threshold": 0.3,
+      "tp": 45,
+      "fp": 11,
+      "fn": 4,
+      "tn": 20,
+      "recall": 0.9184,
+      "automation_rate": 0.3,
+      "missed_rate": 0.05,
+      "cost_per_100": 63.75
+    },
+    {
+      "threshold": 0.35,
+      "tp": 45,
+      "fp": 11,
+      "fn": 4,
+      "tn": 20,
+      "recall": 0.9184,
+      "automation_rate": 0.3,
+      "missed_rate": 0.05,
+      "cost_per_100": 63.75
+    },
+    {
+      "threshold": 0.4,
+      "tp": 45,
+      "fp": 11,
+      "fn": 4,
+      "tn": 20,
+      "recall": 0.9184,
+      "automation_rate": 0.3,
+      "missed_rate": 0.05,
+      "cost_per_100": 63.75
+    },
+    {
+      "threshold": 0.45,
+      "tp": 45,
+      "fp": 11,
+      "fn": 4,
+      "tn": 20,
+      "recall": 0.9184,
+      "automation_rate": 0.3,
+      "missed_rate": 0.05,
+      "cost_per_100": 63.75
+    },
+    {
+      "threshold": 0.5,
+      "tp": 45,
+      "fp": 11,
+      "fn": 4,
+      "tn": 20,
+      "recall": 0.9184,
+      "automation_rate": 0.3,
+      "missed_rate": 0.05,
+      "cost_per_100": 63.75
+    },
+    {
+      "threshold": 0.55,
+      "tp": 45,
+      "fp": 11,
+      "fn": 4,
+      "tn": 20,
+      "recall": 0.9184,
+      "automation_rate": 0.3,
+      "missed_rate": 0.05,
+      "cost_per_100": 63.75
+    },
+    {
+      "threshold": 0.6,
+      "tp": 46,
+      "fp": 12,
+      "fn": 3,
+      "tn": 19,
+      "recall": 0.9388,
+      "automation_rate": 0.275,
+      "missed_rate": 0.0375,
+      "cost_per_100": 52.5
+    },
+    {
+      "threshold": 0.65,
+      "tp": 48,
+      "fp": 16,
+      "fn": 1,
+      "tn": 15,
+      "recall": 0.9796,
+      "automation_rate": 0.2,
+      "missed_rate": 0.0125,
+      "cost_per_100": 32.5
+    },
+    {
+      "threshold": 0.7,
+      "tp": 48,
+      "fp": 22,
+      "fn": 1,
+      "tn": 9,
+      "recall": 0.9796,
+      "automation_rate": 0.125,
+      "missed_rate": 0.0125,
+      "cost_per_100": 40.0
+    },
+    {
+      "threshold": 0.75,
+      "tp": 49,
+      "fp": 24,
+      "fn": 0,
+      "tn": 7,
+      "recall": 1.0,
+      "automation_rate": 0.0875,
+      "missed_rate": 0.0,
+      "cost_per_100": 30.0
+    },
+    {
+      "threshold": 0.8,
+      "tp": 49,
+      "fp": 27,
+      "fn": 0,
+      "tn": 4,
+      "recall": 1.0,
+      "automation_rate": 0.05,
+      "missed_rate": 0.0,
+      "cost_per_100": 33.75
+    },
+    {
+      "threshold": 0.85,
+      "tp": 49,
+      "fp": 28,
+      "fn": 0,
+      "tn": 3,
+      "recall": 1.0,
+      "automation_rate": 0.0375,
+      "missed_rate": 0.0,
+      "cost_per_100": 35.0
+    },
+    {
+      "threshold": 0.9,
+      "tp": 49,
+      "fp": 30,
+      "fn": 0,
+      "tn": 1,
+      "recall": 1.0,
+      "automation_rate": 0.0125,
+      "missed_rate": 0.0,
+      "cost_per_100": 37.5
+    },
+    {
+      "threshold": 0.95,
+      "tp": 49,
+      "fp": 31,
+      "fn": 0,
+      "tn": 0,
+      "recall": 1.0,
+      "automation_rate": 0.0,
+      "missed_rate": 0.0,
+      "cost_per_100": 38.75
+    },
+    {
+      "threshold": 1.0,
+      "tp": 49,
+      "fp": 31,
+      "fn": 0,
+      "tn": 0,
+      "recall": 1.0,
+      "automation_rate": 0.0,
+      "missed_rate": 0.0,
+      "cost_per_100": 38.75
+    }
+  ],
+  "chosen_operating_point_on_A": {
+    "threshold": 0.75,
+    "tp": 62,
+    "fp": 32,
+    "fn": 2,
+    "tn": 24,
+    "recall": 0.9688,
+    "automation_rate": 0.2167,
+    "missed_rate": 0.0167,
+    "cost_per_100": 43.33
+  },
+  "always_escalate_on_A": {
+    "threshold": 1.01,
+    "tp": 64,
+    "fp": 56,
+    "fn": 0,
+    "tn": 0,
+    "recall": 1.0,
+    "automation_rate": 0.0,
+    "missed_rate": 0.0,
+    "cost_per_100": 46.67
+  },
+  "never_escalate_on_A": {
+    "cost_per_100": 533.33
+  },
+  "cost_ratio_sensitivity": [
+    {
+      "ratio": 1,
+      "agent": 18.33,
+      "always_escalate": 46.67,
+      "winner": "agent",
+      "threshold": 0.0,
+      "agent_automation": 0.4167
+    },
+    {
+      "ratio": 2,
+      "agent": 28.33,
+      "always_escalate": 46.67,
+      "winner": "agent",
+      "threshold": 0.6,
+      "agent_automation": 0.3583
+    },
+    {
+      "ratio": 3,
+      "agent": 36.67,
+      "always_escalate": 46.67,
+      "winner": "agent",
+      "threshold": 0.65,
+      "agent_automation": 0.3
+    },
+    {
+      "ratio": 4,
+      "agent": 41.67,
+      "always_escalate": 46.67,
+      "winner": "agent",
+      "threshold": 0.65,
+      "agent_automation": 0.3
+    },
+    {
+      "ratio": 5,
+      "agent": 46.67,
+      "always_escalate": 46.67,
+      "winner": "always-escalate",
+      "threshold": 0.65,
+      "agent_automation": 0.3
+    },
+    {
+      "ratio": 5.25,
+      "agent": 47.92,
+      "always_escalate": 46.67,
+      "winner": "always-escalate",
+      "threshold": 0.65,
+      "agent_automation": 0.3
+    },
+    {
+      "ratio": 6,
+      "agent": 51.67,
+      "always_escalate": 46.67,
+      "winner": "always-escalate",
+      "threshold": 0.65,
+      "agent_automation": 0.3
+    },
+    {
+      "ratio": 8,
+      "agent": 61.67,
+      "always_escalate": 46.67,
+      "winner": "always-escalate",
+      "threshold": 0.65,
+      "agent_automation": 0.3
+    },
+    {
+      "ratio": 10,
+      "agent": 43.33,
+      "always_escalate": 46.67,
+      "winner": "agent",
+      "threshold": 0.75,
+      "agent_automation": 0.2167
+    },
+    {
+      "ratio": 15,
+      "agent": 51.67,
+      "always_escalate": 46.67,
+      "winner": "always-escalate",
+      "threshold": 0.75,
+      "agent_automation": 0.2167
+    },
+    {
+      "ratio": 20,
+      "agent": 60.0,
+      "always_escalate": 46.67,
+      "winner": "always-escalate",
+      "threshold": 0.75,
+      "agent_automation": 0.2167
+    }
+  ],
+  "break_even_note": "The agent only beats always-escalate below a cost ratio of about 5:1. The 10:1 ratio used throughout this project is an assumption, not a measurement, and it is the single parameter that decides whether this system should be deployed at all.",
+  "selective_prediction_frontier": [
+    {
+      "cases_auto_handled": 1,
+      "coverage_of_all_traffic": 0.0083,
+      "confidence_floor": 0.95,
+      "missed_escalations": 0,
+      "miss_rate_within_automated": 0.0
+    },
+    {
+      "cases_auto_handled": 2,
+      "coverage_of_all_traffic": 0.0167,
+      "confidence_floor": 0.9,
+      "missed_escalations": 0,
+      "miss_rate_within_automated": 0.0
+    },
+    {
+      "cases_auto_handled": 3,
+      "coverage_of_all_traffic": 0.025,
+      "confidence_floor": 0.9,
+      "missed_escalations": 0,
+      "miss_rate_within_automated": 0.0
+    },
+    {
+      "cases_auto_handled": 4,
+      "coverage_of_all_traffic": 0.0333,
+      "confidence_floor": 0.9,
+      "missed_escalations": 0,
+      "miss_rate_within_automated": 0.0
+    },
+    {
+      "cases_auto_handled": 5,
+      "coverage_of_all_traffic": 0.0417,
+      "confidence_floor": 0.9,
+      "missed_escalations": 0,
+      "miss_rate_within_automated": 0.0
+    },
+    {
+      "cases_auto_handled": 6,
+      "coverage_of_all_traffic": 0.05,
+      "confidence_floor": 0.85,
+      "missed_escalations": 0,
+      "miss_rate_within_automated": 0.0
+    },
+    {
+      "cases_auto_handled": 7,
+      "coverage_of_all_traffic": 0.0583,
+      "confidence_floor": 0.85,
+      "missed_escalations": 0,
+      "miss_rate_within_automated": 0.0
+    },
+    {
+      "cases_auto_handled": 8,
+      "coverage_of_all_traffic": 0.0667,
+      "confidence_floor": 0.85,
+      "missed_escalations": 0,
+      "miss_rate_within_automated": 0.0
+    },
+    {
+      "cases_auto_handled": 9,
+      "coverage_of_all_traffic": 0.075,
+      "confidence_floor": 0.85,
+      "missed_escalations": 1,
+      "miss_rate_within_automated": 0.1111
+    },
+    {
+      "cases_auto_handled": 10,
+      "coverage_of_all_traffic": 0.0833,
+      "confidence_floor": 0.85,
+      "missed_escalations": 1,
+      "miss_rate_within_automated": 0.1
+    },
+    {
+      "cases_auto_handled": 11,
+      "coverage_of_all_traffic": 0.0917,
+      "confidence_floor": 0.85,
+      "missed_escalations": 1,
+      "miss_rate_within_automated": 0.0909
+    },
+    {
+      "cases_auto_handled": 12,
+      "coverage_of_all_traffic": 0.1,
+      "confidence_floor": 0.85,
+      "missed_escalations": 1,
+      "miss_rate_within_automated": 0.0833
+    },
+    {
+      "cases_auto_handled": 13,
+      "coverage_of_all_traffic": 0.1083,
+      "confidence_floor": 0.8,
+      "missed_escalations": 2,
+      "miss_rate_within_automated": 0.1538
+    },
+    {
+      "cases_auto_handled": 14,
+      "coverage_of_all_traffic": 0.1167,
+      "confidence_floor": 0.8,
+      "missed_escalations": 2,
+      "miss_rate_within_automated": 0.1429
+    },
+    {
+      "cases_auto_handled": 15,
+      "coverage_of_all_traffic": 0.125,
+      "confidence_floor": 0.8,
+      "missed_escalations": 2,
+      "miss_rate_within_automated": 0.1333
+    },
+    {
+      "cases_auto_handled": 16,
+      "coverage_of_all_traffic": 0.1333,
+      "confidence_floor": 0.8,
+      "missed_escalations": 2,
+      "miss_rate_within_automated": 0.125
+    },
+    {
+      "cases_auto_handled": 17,
+      "coverage_of_all_traffic": 0.1417,
+      "confidence_floor": 0.8,
+      "missed_escalations": 2,
+      "miss_rate_within_automated": 0.1176
+    },
+    {
+      "cases_auto_handled": 18,
+      "coverage_of_all_traffic": 0.15,
+      "confidence_floor": 0.8,
+      "missed_escalations": 2,
+      "miss_rate_within_automated": 0.1111
+    },
+    {
+      "cases_auto_handled": 19,
+      "coverage_of_all_traffic": 0.1583,
+      "confidence_floor": 0.75,
+      "missed_escalations": 2,
+      "miss_rate_within_automated": 0.1053
+    },
+    {
+      "cases_auto_handled": 20,
+      "coverage_of_all_traffic": 0.1667,
+      "confidence_floor": 0.75,
+      "missed_escalations": 2,
+      "miss_rate_within_automated": 0.1
+    },
+    {
+      "cases_auto_handled": 21,
+      "coverage_of_all_traffic": 0.175,
+      "confidence_floor": 0.75,
+      "missed_escalations": 2,
+      "miss_rate_within_automated": 0.0952
+    },
+    {
+      "cases_auto_handled": 22,
+      "coverage_of_all_traffic": 0.1833,
+      "confidence_floor": 0.75,
+      "missed_escalations": 2,
+      "miss_rate_within_automated": 0.0909
+    },
+    {
+      "cases_auto_handled": 23,
+      "coverage_of_all_traffic": 0.1917,
+      "confidence_floor": 0.75,
+      "missed_escalations": 2,
+      "miss_rate_within_automated": 0.087
+    },
+    {
+      "cases_auto_handled": 24,
+      "coverage_of_all_traffic": 0.2,
+      "confidence_floor": 0.75,
+      "missed_escalations": 2,
+      "miss_rate_within_automated": 0.0833
+    },
+    {
+      "cases_auto_handled": 25,
+      "coverage_of_all_traffic": 0.2083,
+      "confidence_floor": 0.75,
+      "missed_escalations": 2,
+      "miss_rate_within_automated": 0.08
+    },
+    {
+      "cases_auto_handled": 26,
+      "coverage_of_all_traffic": 0.2167,
+      "confidence_floor": 0.75,
+      "missed_escalations": 2,
+      "miss_rate_within_automated": 0.0769
+    },
+    {
+      "cases_auto_handled": 27,
+      "coverage_of_all_traffic": 0.225,
+      "confidence_floor": 0.7,
+      "missed_escalations": 3,
+      "miss_rate_within_automated": 0.1111
+    },
+    {
+      "cases_auto_handled": 28,
+      "coverage_of_all_traffic": 0.2333,
+      "confidence_floor": 0.7,
+      "missed_escalations": 3,
+      "miss_rate_within_automated": 0.1071
+    },
+    {
+      "cases_auto_handled": 29,
+      "coverage_of_all_traffic": 0.2417,
+      "confidence_floor": 0.7,
+      "missed_escalations": 3,
+      "miss_rate_within_automated": 0.1034
+    },
+    {
+      "cases_auto_handled": 30,
+      "coverage_of_all_traffic": 0.25,
+      "confidence_floor": 0.7,
+      "missed_escalations": 3,
+      "miss_rate_within_automated": 0.1
+    },
+    {
+      "cases_auto_handled": 31,
+      "coverage_of_all_traffic": 0.2583,
+      "confidence_floor": 0.65,
+      "missed_escalations": 4,
+      "miss_rate_within_automated": 0.129
+    },
+    {
+      "cases_auto_handled": 32,
+      "coverage_of_all_traffic": 0.2667,
+      "confidence_floor": 0.65,
+      "missed_escalations": 5,
+      "miss_rate_within_automated": 0.1562
+    },
+    {
+      "cases_auto_handled": 33,
+      "coverage_of_all_traffic": 0.275,
+      "confidence_floor": 0.65,
+      "missed_escalations": 6,
+      "miss_rate_within_automated": 0.1818
+    },
+    {
+      "cases_auto_handled": 34,
+      "coverage_of_all_traffic": 0.2833,
+      "confidence_floor": 0.65,
+      "missed_escalations": 6,
+      "miss_rate_within_automated": 0.1765
+    },
+    {
+      "cases_auto_handled": 35,
+      "coverage_of_all_traffic": 0.2917,
+      "confidence_floor": 0.65,
+      "missed_escalations": 6,
+      "miss_rate_within_automated": 0.1714
+    },
+    {
+      "cases_auto_handled": 36,
+      "coverage_of_all_traffic": 0.3,
+      "confidence_floor": 0.65,
+      "missed_escalations": 6,
+      "miss_rate_within_automated": 0.1667
+    },
+    {
+      "cases_auto_handled": 37,
+      "coverage_of_all_traffic": 0.3083,
+      "confidence_floor": 0.6,
+      "missed_escalations": 6,
+      "miss_rate_within_automated": 0.1622
+    },
+    {
+      "cases_auto_handled": 38,
+      "coverage_of_all_traffic": 0.3167,
+      "confidence_floor": 0.6,
+      "missed_escalations": 6,
+      "miss_rate_within_automated": 0.1579
+    },
+    {
+      "cases_auto_handled": 39,
+      "coverage_of_all_traffic": 0.325,
+      "confidence_floor": 0.6,
+      "missed_escalations": 6,
+      "miss_rate_within_automated": 0.1538
+    },
+    {
+      "cases_auto_handled": 40,
+      "coverage_of_all_traffic": 0.3333,
+      "confidence_floor": 0.6,
+      "missed_escalations": 6,
+      "miss_rate_within_automated": 0.15
+    },
+    {
+      "cases_auto_handled": 41,
+      "coverage_of_all_traffic": 0.3417,
+      "confidence_floor": 0.6,
+      "missed_escalations": 7,
+      "miss_rate_within_automated": 0.1707
+    },
+    {
+      "cases_auto_handled": 42,
+      "coverage_of_all_traffic": 0.35,
+      "confidence_floor": 0.6,
+      "missed_escalations": 7,
+      "miss_rate_within_automated": 0.1667
+    },
+    {
+      "cases_auto_handled": 43,
+      "coverage_of_all_traffic": 0.3583,
+      "confidence_floor": 0.6,
+      "missed_escalations": 7,
+      "miss_rate_within_automated": 0.1628
+    },
+    {
+      "cases_auto_handled": 44,
+      "coverage_of_all_traffic": 0.3667,
+      "confidence_floor": 0.55,
+      "missed_escalations": 7,
+      "miss_rate_within_automated": 0.1591
+    },
+    {
+      "cases_auto_handled": 45,
+      "coverage_of_all_traffic": 0.375,
+      "confidence_floor": 0.55,
+      "missed_escalations": 7,
+      "miss_rate_within_automated": 0.1556
+    },
+    {
+      "cases_auto_handled": 46,
+      "coverage_of_all_traffic": 0.3833,
+      "confidence_floor": 0.55,
+      "missed_escalations": 8,
+      "miss_rate_within_automated": 0.1739
+    },
+    {
+      "cases_auto_handled": 47,
+      "coverage_of_all_traffic": 0.3917,
+      "confidence_floor": 0.55,
+      "missed_escalations": 8,
+      "miss_rate_within_automated": 0.1702
+    },
+    {
+      "cases_auto_handled": 48,
+      "coverage_of_all_traffic": 0.4,
+      "confidence_floor": 0.55,
+      "missed_escalations": 8,
+      "miss_rate_within_automated": 0.1667
+    },
+    {
+      "cases_auto_handled": 49,
+      "coverage_of_all_traffic": 0.4083,
+      "confidence_floor": 0.55,
+      "missed_escalations": 8,
+      "miss_rate_within_automated": 0.1633
+    },
+    {
+      "cases_auto_handled": 50,
+      "coverage_of_all_traffic": 0.4167,
+      "confidence_floor": 0.55,
+      "missed_escalations": 8,
+      "miss_rate_within_automated": 0.16
+    }
+  ]
+}

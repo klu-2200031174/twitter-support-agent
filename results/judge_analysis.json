@@ -1,0 +1,312 @@
+{
+  "judge_vs_human": {
+    "grounded": {
+      "n": 120,
+      "qwk": 0.4351,
+      "spearman": 0.473,
+      "mean_human": 3.767,
+      "mean_judge": 3.408,
+      "judge_minus_human": -0.358,
+      "exact_match": 0.5,
+      "within_one": 0.95
+    },
+    "relevant": {
+      "n": 120,
+      "qwk": 0.8596,
+      "spearman": 0.8915,
+      "mean_human": 3.242,
+      "mean_judge": 3.025,
+      "judge_minus_human": -0.217,
+      "exact_match": 0.6,
+      "within_one": 0.967
+    },
+    "actionable": {
+      "n": 120,
+      "qwk": 0.7339,
+      "spearman": 0.8205,
+      "mean_human": 2.942,
+      "mean_judge": 3.0,
+      "judge_minus_human": 0.058,
+      "exact_match": 0.425,
+      "within_one": 0.942
+    },
+    "tone": {
+      "n": 120,
+      "qwk": 0.845,
+      "spearman": 0.8466,
+      "mean_human": 3.2,
+      "mean_judge": 3.075,
+      "judge_minus_human": -0.125,
+      "exact_match": 0.667,
+      "within_one": 0.992
+    },
+    "safe": {
+      "n": 120,
+      "qwk": 0.1001,
+      "spearman": 0.0254,
+      "mean_human": 4.85,
+      "mean_judge": 4.608,
+      "judge_minus_human": -0.242,
+      "exact_match": 0.658,
+      "within_one": 0.9
+    },
+    "ALL_DIMENSIONS": {
+      "n": 600,
+      "qwk": 0.7892,
+      "spearman": 0.7841,
+      "within_one": 0.95
+    },
+    "send_as_is": {
+      "n": 120,
+      "cohen_kappa": 0.5986,
+      "raw_agreement": 0.808,
+      "human_yes_rate": 0.45,
+      "judge_yes_rate": 0.275
+    },
+    "best_pick": {
+      "n": 30,
+      "agreement": 0.633,
+      "chance": 0.25
+    }
+  },
+  "systems": {
+    "simple": {
+      "grounded": {
+        "mean": 3.292,
+        "ci": [
+          3.067,
+          3.525
+        ]
+      },
+      "relevant": {
+        "mean": 2.4,
+        "ci": [
+          2.175,
+          2.625
+        ]
+      },
+      "actionable": {
+        "mean": 2.542,
+        "ci": [
+          2.333,
+          2.742
+        ]
+      },
+      "tone": {
+        "mean": 2.6,
+        "ci": [
+          2.442,
+          2.758
+        ]
+      },
+      "safe": {
+        "mean": 4.55,
+        "ci": [
+          4.4,
+          4.683
+        ]
+      },
+      "overall": {
+        "mean": 3.077,
+        "ci": [
+          2.933,
+          3.22
+        ]
+      },
+      "send_as_is_rate": 0.108,
+      "judge_picked_best": 4,
+      "n": 120
+    },
+    "trivial": {
+      "grounded": {
+        "mean": 4.0,
+        "ci": [
+          3.817,
+          4.167
+        ]
+      },
+      "relevant": {
+        "mean": 1.333,
+        "ci": [
+          1.242,
+          1.425
+        ]
+      },
+      "actionable": {
+        "mean": 1.917,
+        "ci": [
+          1.808,
+          2.025
+        ]
+      },
+      "tone": {
+        "mean": 2.392,
+        "ci": [
+          2.283,
+          2.5
+        ]
+      },
+      "safe": {
+        "mean": 4.983,
+        "ci": [
+          4.95,
+          5.0
+        ]
+      },
+      "overall": {
+        "mean": 2.925,
+        "ci": [
+          2.852,
+          2.998
+        ]
+      },
+      "send_as_is_rate": 0.008,
+      "judge_picked_best": 1,
+      "n": 120
+    },
+    "reference": {
+      "grounded": {
+        "mean": 3.7,
+        "ci": [
+          3.517,
+          3.875
+        ]
+      },
+      "relevant": {
+        "mean": 3.5,
+        "ci": [
+          3.308,
+          3.692
+        ]
+      },
+      "actionable": {
+        "mean": 3.425,
+        "ci": [
+          3.258,
+          3.6
+        ]
+      },
+      "tone": {
+        "mean": 3.125,
+        "ci": [
+          3.0,
+          3.25
+        ]
+      },
+      "safe": {
+        "mean": 4.342,
+        "ci": [
+          4.183,
+          4.492
+        ]
+      },
+      "overall": {
+        "mean": 3.618,
+        "ci": [
+          3.498,
+          3.742
+        ]
+      },
+      "send_as_is_rate": 0.258,
+      "judge_picked_best": 16,
+      "n": 120
+    },
+    "agent": {
+      "grounded": {
+        "mean": 4.308,
+        "ci": [
+          4.2,
+          4.417
+        ]
+      },
+      "relevant": {
+        "mean": 4.65,
+        "ci": [
+          4.525,
+          4.758
+        ]
+      },
+      "actionable": {
+        "mean": 4.183,
+        "ci": [
+          4.075,
+          4.292
+        ]
+      },
+      "tone": {
+        "mean": 4.467,
+        "ci": [
+          4.358,
+          4.567
+        ]
+      },
+      "safe": {
+        "mean": 4.75,
+        "ci": [
+          4.675,
+          4.825
+        ]
+      },
+      "overall": {
+        "mean": 4.472,
+        "ci": [
+          4.4,
+          4.538
+        ]
+      },
+      "send_as_is_rate": 0.908,
+      "judge_picked_best": 99,
+      "n": 120
+    }
+  },
+  "paired_comparisons": {
+    "agent_vs_simple": {
+      "a": 4.4717,
+      "b": 3.0767,
+      "diff": 1.395,
+      "ci_lo": 1.235,
+      "ci_hi": 1.555,
+      "p_a_better": 1.0
+    },
+    "agent_vs_trivial": {
+      "a": 4.4717,
+      "b": 2.925,
+      "diff": 1.5467,
+      "ci_lo": 1.435,
+      "ci_hi": 1.65,
+      "p_a_better": 1.0
+    },
+    "agent_vs_reference": {
+      "a": 4.4717,
+      "b": 3.6183,
+      "diff": 0.8533,
+      "ci_lo": 0.71,
+      "ci_hi": 0.9933,
+      "p_a_better": 1.0
+    }
+  },
+  "position_bias": {
+    "slot_0": {
+      "mean": 3.625,
+      "n": 120
+    },
+    "slot_1": {
+      "mean": 3.53,
+      "n": 120
+    },
+    "slot_2": {
+      "mean": 3.537,
+      "n": 120
+    },
+    "slot_3": {
+      "mean": 3.4,
+      "n": 120
+    }
+  },
+  "link_token_confound": {
+    "simple": 0.417,
+    "trivial": 0.0,
+    "reference": 0.6,
+    "agent": 0.108
+  }
+}

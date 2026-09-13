@@ -1,0 +1,23 @@
+{
+  "cases_in": 74476,
+  "english": 62557,
+  "english_rate": 0.84,
+  "dropped_by_language": {
+    "es": 3973,
+    "fr": 3798,
+    "de": 2349,
+    "pt": 875,
+    "it": 661,
+    "en": 234,
+    "ja/zh": 16,
+    "unknown": 8,
+    "ar": 5
+  },
+  "cut_date": "2017-11-15",
+  "train": 41232,
+  "eval_pool": 21325,
+  "retrieval_corpus": 33359,
+  "retrieval_substance_rate": 0.8091,
+  "eval_near_duplicate_rate_vs_train": 0.0033,
+  "near_dupe_note": "Fraction of sampled eval messages with a >=0.6 Jaccard bigram match in train. Under a random split these pairs would straddle the boundary and the retriever would be scored on cases it had effectively memorised."
+}

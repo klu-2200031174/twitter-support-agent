@@ -1,0 +1,703 @@
+{
+  "systems": {
+    "trivial": {
+      "stratum_A": {
+        "system": "trivial",
+        "stratum": "A_random",
+        "n": 120,
+        "intent": {
+          "macro_f1": 0.0333,
+          "macro_f1_ci": [
+            0.0222,
+            0.0431
+          ],
+          "accuracy": 0.2,
+          "accuracy_ci": [
+            0.125,
+            0.275
+          ],
+          "per_class": {
+            "delivery_delayed": {
+              "support": 24,
+              "precision": 0.2,
+              "recall": 1.0,
+              "f1": 0.3333,
+              "unreliable_small_support": false
+            },
+            "delivery_missing": {
+              "support": 15,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": false
+            },
+            "item_problem": {
+              "support": 8,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": true
+            },
+            "return_refund": {
+              "support": 5,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": true
+            },
+            "billing_account": {
+              "support": 16,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": false
+            },
+            "digital_service": {
+              "support": 15,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": false
+            },
+            "presales_info": {
+              "support": 7,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": true
+            },
+            "service_complaint": {
+              "support": 19,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": false
+            },
+            "feedback_other": {
+              "support": 7,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": true
+            },
+            "other": {
+              "support": 4,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": true
+            }
+          },
+          "top_confusions": [
+            {
+              "gold": "service_complaint",
+              "pred": "delivery_delayed",
+              "count": 19
+            },
+            {
+              "gold": "billing_account",
+              "pred": "delivery_delayed",
+              "count": 16
+            },
+            {
+              "gold": "digital_service",
+              "pred": "delivery_delayed",
+              "count": 15
+            },
+            {
+              "gold": "delivery_missing",
+              "pred": "delivery_delayed",
+              "count": 15
+            },
+            {
+              "gold": "item_problem",
+              "pred": "delivery_delayed",
+              "count": 8
+            },
+            {
+              "gold": "feedback_other",
+              "pred": "delivery_delayed",
+              "count": 7
+            },
+            {
+              "gold": "presales_info",
+              "pred": "delivery_delayed",
+              "count": 7
+            },
+            {
+              "gold": "return_refund",
+              "pred": "delivery_delayed",
+              "count": 5
+            }
+          ]
+        },
+        "escalation": {
+          "n": 120,
+          "tp": 0,
+          "fp": 0,
+          "fn": 64,
+          "tn": 56,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "missed_escalation_rate": 0.5333,
+          "needless_escalation_rate": 0.0,
+          "automation_rate": 1.0,
+          "auto_handled_error_rate": 0.5333,
+          "expected_cost_per_100": 533.33,
+          "recall_ci": [
+            0.0,
+            0.0
+          ],
+          "cost_per_case": 5.3333,
+          "cost_per_case_ci": [
+            4.4167,
+            6.1667
+          ]
+        }
+      },
+      "all": {
+        "system": "trivial",
+        "stratum": "ALL",
+        "n": 200,
+        "intent": {
+          "macro_f1": 0.0246,
+          "macro_f1_ci": [
+            0.0174,
+            0.0319
+          ],
+          "accuracy": 0.14,
+          "accuracy_ci": [
+            0.095,
+            0.19
+          ],
+          "per_class": {
+            "delivery_delayed": {
+              "support": 28,
+              "precision": 0.14,
+              "recall": 1.0,
+              "f1": 0.2456,
+              "unreliable_small_support": false
+            },
+            "delivery_missing": {
+              "support": 19,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": false
+            },
+            "item_problem": {
+              "support": 18,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": false
+            },
+            "return_refund": {
+              "support": 11,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": false
+            },
+            "billing_account": {
+              "support": 24,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": false
+            },
+            "digital_service": {
+              "support": 23,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": false
+            },
+            "presales_info": {
+              "support": 18,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": false
+            },
+            "service_complaint": {
+              "support": 34,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": false
+            },
+            "feedback_other": {
+              "support": 12,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": false
+            },
+            "other": {
+              "support": 13,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": false
+            }
+          },
+          "top_confusions": [
+            {
+              "gold": "service_complaint",
+              "pred": "delivery_delayed",
+              "count": 34
+            },
+            {
+              "gold": "billing_account",
+              "pred": "delivery_delayed",
+              "count": 24
+            },
+            {
+              "gold": "digital_service",
+              "pred": "delivery_delayed",
+              "count": 23
+            },
+            {
+              "gold": "delivery_missing",
+              "pred": "delivery_delayed",
+              "count": 19
+            },
+            {
+              "gold": "presales_info",
+              "pred": "delivery_delayed",
+              "count": 18
+            },
+            {
+              "gold": "item_problem",
+              "pred": "delivery_delayed",
+              "count": 18
+            },
+            {
+              "gold": "other",
+              "pred": "delivery_delayed",
+              "count": 13
+            },
+            {
+              "gold": "feedback_other",
+              "pred": "delivery_delayed",
+              "count": 12
+            }
+          ]
+        },
+        "escalation": {
+          "n": 200,
+          "tp": 0,
+          "fp": 0,
+          "fn": 113,
+          "tn": 87,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "missed_escalation_rate": 0.565,
+          "needless_escalation_rate": 0.0,
+          "automation_rate": 1.0,
+          "auto_handled_error_rate": 0.565,
+          "expected_cost_per_100": 565.0,
+          "recall_ci": [
+            0.0,
+            0.0
+          ],
+          "cost_per_case": 5.65,
+          "cost_per_case_ci": [
+            4.95,
+            6.35
+          ]
+        }
+      }
+    },
+    "simple": {
+      "stratum_A": {
+        "system": "simple",
+        "stratum": "A_random",
+        "n": 120,
+        "intent": {
+          "macro_f1": 0.4331,
+          "macro_f1_ci": [
+            0.3194,
+            0.5178
+          ],
+          "accuracy": 0.5167,
+          "accuracy_ci": [
+            0.425,
+            0.6083
+          ],
+          "per_class": {
+            "delivery_delayed": {
+              "support": 24,
+              "precision": 0.5862,
+              "recall": 0.7083,
+              "f1": 0.6415,
+              "unreliable_small_support": false
+            },
+            "delivery_missing": {
+              "support": 15,
+              "precision": 0.5625,
+              "recall": 0.6,
+              "f1": 0.5806,
+              "unreliable_small_support": false
+            },
+            "item_problem": {
+              "support": 8,
+              "precision": 0.375,
+              "recall": 0.375,
+              "f1": 0.375,
+              "unreliable_small_support": true
+            },
+            "return_refund": {
+              "support": 5,
+              "precision": 1.0,
+              "recall": 0.2,
+              "f1": 0.3333,
+              "unreliable_small_support": true
+            },
+            "billing_account": {
+              "support": 16,
+              "precision": 0.6154,
+              "recall": 0.5,
+              "f1": 0.5517,
+              "unreliable_small_support": false
+            },
+            "digital_service": {
+              "support": 15,
+              "precision": 0.5294,
+              "recall": 0.6,
+              "f1": 0.5625,
+              "unreliable_small_support": false
+            },
+            "presales_info": {
+              "support": 7,
+              "precision": 0.5,
+              "recall": 0.2857,
+              "f1": 0.3636,
+              "unreliable_small_support": true
+            },
+            "service_complaint": {
+              "support": 19,
+              "precision": 0.4074,
+              "recall": 0.5789,
+              "f1": 0.4783,
+              "unreliable_small_support": false
+            },
+            "feedback_other": {
+              "support": 7,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": true
+            },
+            "other": {
+              "support": 4,
+              "precision": 0.4,
+              "recall": 0.5,
+              "f1": 0.4444,
+              "unreliable_small_support": true
+            }
+          },
+          "top_confusions": [
+            {
+              "gold": "delivery_delayed",
+              "pred": "service_complaint",
+              "count": 3
+            },
+            {
+              "gold": "delivery_missing",
+              "pred": "service_complaint",
+              "count": 3
+            },
+            {
+              "gold": "billing_account",
+              "pred": "service_complaint",
+              "count": 3
+            },
+            {
+              "gold": "service_complaint",
+              "pred": "delivery_missing",
+              "count": 3
+            },
+            {
+              "gold": "feedback_other",
+              "pred": "service_complaint",
+              "count": 2
+            },
+            {
+              "gold": "presales_info",
+              "pred": "digital_service",
+              "count": 2
+            },
+            {
+              "gold": "delivery_delayed",
+              "pred": "delivery_missing",
+              "count": 2
+            },
+            {
+              "gold": "delivery_missing",
+              "pred": "delivery_delayed",
+              "count": 2
+            }
+          ]
+        },
+        "escalation": {
+          "n": 120,
+          "tp": 27,
+          "fp": 14,
+          "fn": 37,
+          "tn": 42,
+          "precision": 0.6585,
+          "recall": 0.4219,
+          "f1": 0.5143,
+          "missed_escalation_rate": 0.3083,
+          "needless_escalation_rate": 0.1167,
+          "automation_rate": 0.6583,
+          "auto_handled_error_rate": 0.4684,
+          "expected_cost_per_100": 320.0,
+          "recall_ci": [
+            0.3,
+            0.5385
+          ],
+          "cost_per_case": 3.2,
+          "cost_per_case_ci": [
+            2.4,
+            4.0
+          ]
+        }
+      },
+      "all": {
+        "system": "simple",
+        "stratum": "ALL",
+        "n": 200,
+        "intent": {
+          "macro_f1": 0.4135,
+          "macro_f1_ci": [
+            0.3383,
+            0.4782
+          ],
+          "accuracy": 0.48,
+          "accuracy_ci": [
+            0.405,
+            0.5451
+          ],
+          "per_class": {
+            "delivery_delayed": {
+              "support": 28,
+              "precision": 0.5128,
+              "recall": 0.7143,
+              "f1": 0.597,
+              "unreliable_small_support": false
+            },
+            "delivery_missing": {
+              "support": 19,
+              "precision": 0.5,
+              "recall": 0.4737,
+              "f1": 0.4865,
+              "unreliable_small_support": false
+            },
+            "item_problem": {
+              "support": 18,
+              "precision": 0.4,
+              "recall": 0.2222,
+              "f1": 0.2857,
+              "unreliable_small_support": false
+            },
+            "return_refund": {
+              "support": 11,
+              "precision": 1.0,
+              "recall": 0.1818,
+              "f1": 0.3077,
+              "unreliable_small_support": false
+            },
+            "billing_account": {
+              "support": 24,
+              "precision": 0.4643,
+              "recall": 0.5417,
+              "f1": 0.5,
+              "unreliable_small_support": false
+            },
+            "digital_service": {
+              "support": 23,
+              "precision": 0.5,
+              "recall": 0.5217,
+              "f1": 0.5106,
+              "unreliable_small_support": false
+            },
+            "presales_info": {
+              "support": 18,
+              "precision": 0.3571,
+              "recall": 0.2778,
+              "f1": 0.3125,
+              "unreliable_small_support": false
+            },
+            "service_complaint": {
+              "support": 34,
+              "precision": 0.4528,
+              "recall": 0.7059,
+              "f1": 0.5517,
+              "unreliable_small_support": false
+            },
+            "feedback_other": {
+              "support": 12,
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "unreliable_small_support": false
+            },
+            "other": {
+              "support": 13,
+              "precision": 0.6364,
+              "recall": 0.5385,
+              "f1": 0.5833,
+              "unreliable_small_support": false
+            }
+          },
+          "top_confusions": [
+            {
+              "gold": "feedback_other",
+              "pred": "service_complaint",
+              "count": 5
+            },
+            {
+              "gold": "delivery_delayed",
+              "pred": "service_complaint",
+              "count": 4
+            },
+            {
+              "gold": "billing_account",
+              "pred": "service_complaint",
+              "count": 4
+            },
+            {
+              "gold": "delivery_missing",
+              "pred": "delivery_delayed",
+              "count": 4
+            },
+            {
+              "gold": "return_refund",
+              "pred": "service_complaint",
+              "count": 4
+            },
+            {
+              "gold": "digital_service",
+              "pred": "billing_account",
+              "count": 4
+            },
+            {
+              "gold": "delivery_missing",
+              "pred": "service_complaint",
+              "count": 3
+            },
+            {
+              "gold": "service_complaint",
+              "pred": "delivery_missing",
+              "count": 3
+            }
+          ]
+        },
+        "escalation": {
+          "n": 200,
+          "tp": 50,
+          "fp": 24,
+          "fn": 63,
+          "tn": 63,
+          "precision": 0.6757,
+          "recall": 0.4425,
+          "f1": 0.5348,
+          "missed_escalation_rate": 0.315,
+          "needless_escalation_rate": 0.12,
+          "automation_rate": 0.63,
+          "auto_handled_error_rate": 0.5,
+          "expected_cost_per_100": 327.0,
+          "recall_ci": [
+            0.3513,
+            0.5347
+          ],
+          "cost_per_case": 3.27,
+          "cost_per_case_ci": [
+            2.6399,
+            3.9251
+          ]
+        }
+      }
+    }
+  },
+  "diagnostics": {
+    "escalation_from_gold_intent_only": {
+      "policy": {
+        "digital_service": false,
+        "delivery_delayed": false,
+        "delivery_missing": true,
+        "feedback_other": false,
+        "billing_account": true,
+        "service_complaint": true,
+        "presales_info": false,
+        "item_problem": false,
+        "return_refund": true,
+        "other": true
+      },
+      "n": 120,
+      "tp": 56,
+      "fp": 3,
+      "fn": 8,
+      "tn": 53,
+      "precision": 0.9492,
+      "recall": 0.875,
+      "f1": 0.9106,
+      "missed_escalation_rate": 0.0667,
+      "needless_escalation_rate": 0.025,
+      "automation_rate": 0.5083,
+      "auto_handled_error_rate": 0.1311,
+      "expected_cost_per_100": 69.17,
+      "note": "Upper bound on what escalation looks like if it is nothing more than intent classification. Uses GOLD intents, so no real system can do better by this route."
+    },
+    "always_escalate": {
+      "n": 120,
+      "tp": 64,
+      "fp": 56,
+      "fn": 0,
+      "tn": 0,
+      "precision": 0.5333,
+      "recall": 1.0,
+      "f1": 0.6957,
+      "missed_escalation_rate": 0.0,
+      "needless_escalation_rate": 0.4667,
+      "automation_rate": 0.0,
+      "auto_handled_error_rate": 0.0,
+      "expected_cost_per_100": 46.67
+    },
+    "never_escalate": {
+      "n": 120,
+      "tp": 0,
+      "fp": 0,
+      "fn": 64,
+      "tn": 56,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "missed_escalation_rate": 0.5333,
+      "needless_escalation_rate": 0.0,
+      "automation_rate": 1.0,
+      "auto_handled_error_rate": 0.5333,
+      "expected_cost_per_100": 533.33
+    },
+    "keyword_rules_only": {
+      "n": 120,
+      "tp": 27,
+      "fp": 14,
+      "fn": 37,
+      "tn": 42,
+      "precision": 0.6585,
+      "recall": 0.4219,
+      "f1": 0.5143,
+      "missed_escalation_rate": 0.3083,
+      "needless_escalation_rate": 0.1167,
+      "automation_rate": 0.6583,
+      "auto_handled_error_rate": 0.4684,
+      "expected_cost_per_100": 320.0
+    }
+  }
+}

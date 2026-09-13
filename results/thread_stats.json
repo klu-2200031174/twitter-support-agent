@@ -1,0 +1,18 @@
+{
+  "raw_tweets": 2811774,
+  "conversations_total": 798197,
+  "conversations_with_brand": 82556,
+  "brand": "AmazonHelp",
+  "threads_kept": 75481,
+  "cases": 74476,
+  "dropped": {
+    "non_english": 6765,
+    "no_customer_open": 986,
+    "no_brand_reply": 0,
+    "multi_brand": 310,
+    "empty_text": 19
+  },
+  "turns_p50": 3.0,
+  "turns_p90": 8.0,
+  "turns_max": 448
+}

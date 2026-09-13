@@ -1,0 +1,58 @@
+{
+  "n": 40,
+  "overall": {
+    "a": 4.235,
+    "b": 4.33,
+    "diff": -0.095,
+    "ci_lo": -0.32,
+    "ci_hi": 0.11,
+    "p_a_better": 0.1835
+  },
+  "best_picks": {
+    "with_retrieval": 21,
+    "no_retrieval": 19
+  },
+  "by_dimension": {
+    "grounded": {
+      "a": 4.55,
+      "b": 4.475,
+      "diff": 0.075,
+      "ci_lo": -0.225,
+      "ci_hi": 0.325,
+      "p_a_better": 0.677
+    },
+    "relevant": {
+      "a": 3.925,
+      "b": 4.425,
+      "diff": -0.5,
+      "ci_lo": -0.875,
+      "ci_hi": -0.15,
+      "p_a_better": 0.0035
+    },
+    "actionable": {
+      "a": 3.825,
+      "b": 3.75,
+      "diff": 0.075,
+      "ci_lo": -0.45,
+      "ci_hi": 0.55,
+      "p_a_better": 0.6055
+    },
+    "tone": {
+      "a": 3.975,
+      "b": 4.1,
+      "diff": -0.125,
+      "ci_lo": -0.275,
+      "ci_hi": 0.0,
+      "p_a_better": 0.0135
+    },
+    "safe": {
+      "a": 4.9,
+      "b": 4.9,
+      "diff": 0.0,
+      "ci_lo": -0.15,
+      "ci_hi": 0.125,
+      "p_a_better": 0.4505
+    }
+  },
+  "interpretation": "Negative diff means retrieval HURTS. Amazon's historical replies are heavily deflection-shaped, so grounding the drafter in them teaches deflection, which the rubric scores as less relevant."
+}

@@ -1,0 +1,54 @@
+{
+  "n": 200,
+  "stratum_A_random": 120,
+  "stratum_B_targeted": 80,
+  "intent_distribution_all": {
+    "service_complaint": 34,
+    "delivery_delayed": 28,
+    "billing_account": 24,
+    "digital_service": 23,
+    "delivery_missing": 19,
+    "presales_info": 18,
+    "item_problem": 18,
+    "other": 13,
+    "feedback_other": 12,
+    "return_refund": 11
+  },
+  "intent_distribution_stratumA": {
+    "delivery_delayed": 24,
+    "service_complaint": 19,
+    "billing_account": 16,
+    "digital_service": 15,
+    "delivery_missing": 15,
+    "item_problem": 8,
+    "feedback_other": 7,
+    "presales_info": 7,
+    "return_refund": 5,
+    "other": 4
+  },
+  "escalate_rate_all": 0.565,
+  "escalate_rate_stratumA": 0.5333,
+  "rule_frequency": {
+    "E5_repeat_failure": 44,
+    "E2_account_action": 38,
+    "E9_relationship_risk": 27,
+    "E8_unclassifiable": 13,
+    "E1_account_security": 10,
+    "E7_high_value_or_bulk": 6,
+    "E6_vulnerability_distress": 2,
+    "E3_legal_regulatory_media": 1
+  },
+  "confidence": {
+    "high": 116,
+    "medium": 65,
+    "low": 19
+  },
+  "ambiguous_n": 73,
+  "ambiguous_rate": 0.365,
+  "adjudication_queue_n": 73,
+  "reconciliation": {
+    "rule_ids_renamed": 9,
+    "implied_rules_attached": 13,
+    "note": "Rules were edited mid-annotation (E2 widened, E9 added). Every label was re-swept; these counts are how many were touched."
+  }
+}

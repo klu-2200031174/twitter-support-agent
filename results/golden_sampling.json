@@ -1,0 +1,18 @@
+{
+  "seed": 20260910,
+  "eval_pool_size": 21325,
+  "n_total": 200,
+  "stratum_A_random": 120,
+  "stratum_B_targeted": 80,
+  "probe_yield": {
+    "billing_account": 13,
+    "service_complaint": 13,
+    "presales_info": 13,
+    "digital_service": 13,
+    "item_problem": 13,
+    "other": 13,
+    "topup": 2
+  },
+  "cut_date": "2017-11-15",
+  "rule": "Headline production metrics are computed on stratum A only. Stratum B is used for per-class reliability and error analysis and is never averaged into a production claim without an explicit reweighting."
+}
